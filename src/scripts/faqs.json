@@ -1,0 +1,2231 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "Go to Settings > Account > Reset Password.",
+    "labels": ["password", "account"],
+    "category": "Account"
+  },
+  {
+    "question": "What is ANANYA?",
+    "answer": "ANANYA is your emotional wellness AI companion.",
+    "labels": ["ananya", "wellness"],
+    "category": "Features"
+  },
+  {
+    "question": "Why do I feel uglier after scrolling through Instagram?",
+    "answer": "Social media often showcases idealized versions of reality, which can lead to unhealthy comparisons. To combat this, remind yourself that these images are curated and edited. Focus on your unique qualities and practice self-compassion.",
+    "labels": ["social media", "self-image", "comparison"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "How do I stop comparing myself to edited photos?",
+    "answer": "Limit exposure to accounts that trigger negative feelings and follow body-positive or authentic creators instead. Practice gratitude for your own strengths and remember that perfection online isn't real life.",
+    "labels": ["social media", "self-esteem", "mental health"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "Why do I spend hours editing my selfies before posting?",
+    "answer": "This behavior may stem from a desire for validation or fear of judgment. Try sharing unedited photos with close friends first to build confidence. Remember, authenticity is more appealing than perfection.",
+    "labels": ["social media", "validation", "self-expression"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "How do I post pictures without obsessing over likes?",
+    "answer": "Shift your mindset by focusing on why you're sharing—not for approval but for self-expression. Disable like counts if possible, and remind yourself that your worth isn’t determined by numbers.",
+    "labels": ["social media", "likes", "self-worth"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "Why do filters make me hate my real appearance?",
+    "answer": "Filters create unrealistic beauty standards that distort perceptions of reality. Take breaks from filtered content and surround yourself with diverse representations of beauty to retrain your perspective.",
+    "labels": ["social media", "filters", "self-image"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "Why do I feel left out when I see others having fun online?",
+    "answer": "FOMO (fear of missing out) is common on social media. Instead of dwelling on what you're missing, focus on activities that bring you joy offline. Engage in hobbies or connect with loved ones personally.",
+    "labels": ["social media", "FOMO", "loneliness"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "How do I deal with FOMO (fear of missing out)?",
+    "answer": "Acknowledge that social media highlights only specific moments, not entire lives. Redirect energy toward meaningful experiences in your own life and practice mindfulness to stay present.",
+    "labels": ["social media", "anxiety", "mindfulness"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "Why do I crave likes, shares, and comments?",
+    "answer": "Likes provide instant gratification and external validation. To reduce reliance, reflect on intrinsic motivations for posting and celebrate personal achievements independently of feedback.",
+    "labels": ["social media", "validation", "mental health"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "How do I measure my worth beyond social media metrics?",
+    "answer": "Focus on qualities that define you beyond numbers—your kindness, creativity, resilience, and relationships. Write down non-social-media-related accomplishments to reinforce your value.",
+    "labels": ["social media", "self-worth", "identity"],
+    "category": "Social Media Impact"
+  },
+  {
+    "question": "Why do low engagement numbers crush my confidence?",
+    "answer": "Engagement doesn’t equate to your value as a person. Remind yourself that algorithms play a role, and not every post resonates equally. Focus on connecting authentically rather than chasing stats.",
+    "labels": ["social media", "confidence", "engagement"],
+    "category": "Social Media Impact"
+  },
+
+  
+
+  {
+    "question": "Why do I panic during exams even though I studied hard?",
+    "answer": "Exam anxiety is common and can stem from fear of failure or high expectations. Practice deep breathing techniques before tests and simulate exam conditions while studying to build confidence.",
+    "labels": ["academic pressure", "exam anxiety", "performance"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "How do I calm my nerves before tests?",
+    "answer": "Prepare thoroughly, but also prioritize relaxation techniques like meditation, listening to calming music, or taking short walks. Remind yourself that one test doesn’t define your entire future.",
+    "labels": ["academic pressure", "stress relief", "test prep"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "Why do grades define how I see myself?",
+    "answer": "Grades often become tied to self-worth due to societal or familial pressures. Challenge this mindset by focusing on effort over outcomes and recognizing non-academic strengths like creativity or kindness.",
+    "labels": ["academic pressure", "self-esteem", "identity"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "How do I separate my identity from academic performance?",
+    "answer": "Reflect on qualities beyond academics—your relationships, hobbies, values, and character traits. Write a list of achievements unrelated to school to remind yourself of your multifaceted worth.",
+    "labels": ["academic pressure", "identity", "self-worth"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "Why do I feel like I’ll never live up to expectations?",
+    "answer": "High standards can feel overwhelming, especially when set by parents or teachers. Communicate openly about your struggles and focus on progress rather than perfection. Celebrate small wins along the way.",
+    "labels": ["academic pressure", "expectations", "motivation"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "How do I cope with high standards set by parents/teachers?",
+    "answer": "Set realistic goals based on your abilities, not others’ ideals. Have honest conversations with authority figures about what feels achievable. Seek support from mentors who understand your perspective.",
+    "labels": ["academic pressure", "communication", "support"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "Why do deadlines overwhelm me so much?",
+    "answer": "Deadlines can pile up quickly, leading to stress. Break tasks into smaller steps using tools like planners or apps. Prioritize urgent assignments and reward yourself for completing milestones.",
+    "labels": ["academic pressure", "time management", "organization"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "How do I organize my workload efficiently?",
+    "answer": "Use a planner or digital calendar to track deadlines and create daily to-do lists. Focus on one task at a time and avoid multitasking. Set aside dedicated study blocks to maintain productivity.",
+    "labels": ["academic pressure", "productivity", "planning"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "Why do I procrastinate until the last minute?",
+    "answer": "Procrastination often stems from fear of failure or feeling overwhelmed. Combat it by starting with easy tasks to build momentum. Use timers (like the Pomodoro Technique) to stay focused and break work into manageable chunks.",
+    "labels": ["academic pressure", "procrastination", "focus"],
+    "category": "Academic Pressure"
+  },
+  {
+    "question": "How do I develop better time-management skills?",
+    "answer": "Identify distractions and minimize them during study sessions. Allocate specific times for breaks and stick to a routine. Regularly review your schedule to ensure balance between academics, rest, and leisure.",
+    "labels": ["academic pressure", "time management", "balance"],
+    "category": "Academic Pressure"
+  },
+
+
+
+  {
+    "question": "Why do I worry about my career path already?",
+    "answer": "It’s natural to think ahead, but remember that careers evolve over time. Focus on exploring your interests now without locking yourself into one path too soon. Adaptability is key to long-term success.",
+    "labels": ["long-term concerns", "career planning", "future"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "How do I explore interests without committing prematurely?",
+    "answer": "Take advantage of internships, extracurriculars, or online courses to test different fields. Talk to professionals in areas you’re curious about. Keep an open mind—your passion may shift as you grow.",
+    "labels": ["long-term concerns", "exploration", "flexibility"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "Why do societal norms dictate my choices?",
+    "answer": "Societal pressures can influence decisions, but they don’t have to define you. Reflect on what truly matters to YOU—not others’ expectations. Surround yourself with supportive people who encourage authenticity.",
+    "labels": ["long-term concerns", "societal pressure", "authenticity"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "How do I pursue dreams authentically?",
+    "answer": "Start by identifying your core values and aligning them with your goals. Break down big dreams into actionable steps. Trust the process, even if progress feels slow—you’re building a meaningful life, not just checking boxes.",
+    "labels": ["long-term concerns", "authenticity", "goal setting"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "Why do I fear failure more than anything else?",
+    "answer": "Failure often feels like rejection, but it’s also a stepping stone to growth. Reframe failures as learning opportunities. Remember, resilience builds strength—you’ll emerge wiser after each challenge.",
+    "labels": ["long-term concerns", "failure", "resilience"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "How do I redefine failure as growth opportunities?",
+    "answer": "Shift your perspective by analyzing setbacks objectively. Ask yourself: What did I learn? How can I improve next time? Celebrate effort alongside results, and acknowledge that mistakes are part of every journey.",
+    "labels": ["long-term concerns", "mindset", "growth"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "Why do temporary struggles feel permanent?",
+    "answer": "In tough moments, it’s easy to lose sight of the bigger picture. Remind yourself that challenges pass with time and effort. Journaling or talking to someone you trust can help reframe negative thoughts.",
+    "labels": ["long-term concerns", "struggles", "perspective"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "How do I remind myself of long-term goals during tough times?",
+    "answer": "Create visual reminders of your goals, such as vision boards or notes. Revisit these regularly to stay motivated. When facing obstacles, focus on small wins that contribute to your larger aspirations.",
+    "labels": ["long-term concerns", "motivation", "perseverance"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "Why do doubts about purpose creep in?",
+    "answer": "Purpose evolves throughout life—it’s okay not to have everything figured out. Experiment with new activities, reflect on past successes, and seek inspiration from diverse sources. Clarity comes gradually.",
+    "labels": ["long-term concerns", "purpose", "self-discovery"],
+    "category": "Long-Term Concerns"
+  },
+  {
+    "question": "How do I connect studies to lifelong fulfillment?",
+    "answer": "Look for ways your education serves broader passions or contributes to society. For example, link math skills to problem-solving real-world issues or writing skills to storytelling. Find meaning in the process, not just the outcome.",
+    "labels": ["long-term concerns", "fulfillment", "education"],
+    "category": "Long-Term Concerns"
+  },
+
+
+
+  {
+    "question": "Why do my parents expect me to excel at everything?",
+    "answer": "Parents often want the best for you, but their high expectations can feel overwhelming. Communicate openly about your limits and share how stress affects you. Show them that effort matters as much as outcomes.",
+    "labels": ["parental expectations", "pressure", "communication"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "How do I communicate my limits respectfully?",
+    "answer": "Be honest yet tactful when discussing your boundaries. Use “I” statements, like “I feel stressed when I try to manage too many things,” and suggest realistic alternatives. Parents may not realize they’re pushing too hard unless you speak up.",
+    "labels": ["parental expectations", "boundaries", "respect"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "Why do unrealistic goals make me feel defeated?",
+    "answer": "Unrealistic goals set by others can create unnecessary pressure. Break larger goals into smaller, achievable steps and celebrate incremental progress. Focus on what YOU can control, not perfection.",
+    "labels": ["parental expectations", "goals", "motivation"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "How do I cope with high standards set by peers?",
+    "answer": "Remember that everyone presents an idealized version of themselves. Avoid comparing your journey to someone else’s highlight reel. Instead, surround yourself with supportive friends who appreciate you for who you are.",
+    "labels": ["peer expectations", "comparison", "self-worth"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "Why do cliques form around academic hierarchies?",
+    "answer": "Cliques often arise because people seek belonging and validation. However, true friendships value character over grades. Seek out diverse groups where individuality is celebrated rather than judged.",
+    "labels": ["peer expectations", "social dynamics", "friendship"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "How do I foster genuine friendships beyond grades?",
+    "answer": "Focus on shared interests, values, and mutual respect instead of academic performance. Join clubs or activities that align with your passions—you’ll meet people who care about more than just achievements.",
+    "labels": ["peer expectations", "authenticity", "relationships"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "Why do scholarship applications stress me out?",
+    "answer": "Scholarships involve competition, which can heighten anxiety. Focus on showcasing your unique strengths and experiences rather than trying to fit a mold. Remember, rejection doesn’t define your worth.",
+    "labels": ["parental expectations", "scholarships", "stress"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "How do I stand out among competitive candidates?",
+    "answer": "Highlight qualities that make you unique—your background, hobbies, or volunteer work. Tailor each application to reflect sincerity and passion. Practice interviews to boost confidence and articulate your story effectively.",
+    "labels": ["parental expectations", "competition", "personal branding"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "Why do college applications feel overwhelming?",
+    "answer": "The process combines essays, deadlines, and decisions about your future, which naturally causes stress. Break it into smaller tasks and seek guidance from counselors or mentors. Trust that your efforts will pay off.",
+    "labels": ["parental expectations", "college applications", "stress management"],
+    "category": "Parental & Peer Expectations"
+  },
+  {
+    "question": "How do I navigate essays, interviews, and deadlines?",
+    "answer": "Create a timeline to stay organized and prioritize tasks. For essays, brainstorm ideas early and revise thoroughly. Practice common interview questions with family or friends. Stay calm by focusing on one step at a time.",
+    "labels": ["parental expectations", "organization", "preparation"],
+    "category": "Parental & Peer Expectations"
+  },
+
+
+
+  {
+    "question": "Why do I experience panic attacks unexpectedly?",
+    "answer": "Panic attacks can occur due to stress, triggers, or underlying anxiety disorders. Learn to identify early signs like rapid heartbeat or dizziness. Grounding techniques (e.g., focusing on your senses) can help regain control during an episode.",
+    "labels": ["mental health", "panic attacks", "anxiety"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I stop a panic attack once it starts?",
+    "answer": "Focus on slow, controlled breathing—inhale for 4 seconds, hold for 4, exhale for 6. Use grounding methods like naming objects around you or holding something tactile. Remind yourself that the feeling will pass and isn’t dangerous.",
+    "labels": ["mental health", "panic attacks", "coping mechanisms"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I feel like harming myself when I’m upset?",
+    "answer": "Self-harm often stems from overwhelming emotions or a need to cope with pain. Reach out to someone you trust immediately, such as a friend, family member, or crisis hotline. Professional help can provide healthier coping strategies.",
+    "labels": ["mental health", "self-harm", "emotional distress"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I find alternatives to self-harm?",
+    "answer": "Redirect destructive urges into safer activities like drawing on your skin with a marker, squeezing ice cubes, or tearing paper. Journaling or talking to someone can also release pent-up emotions. Seek therapy for long-term solutions.",
+    "labels": ["mental health", "self-harm", "healthy coping"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I have thoughts of ending my life?",
+    "answer": "Suicidal thoughts may arise from feelings of hopelessness, isolation, or unbearable pain. It’s crucial to talk to someone—a trusted adult, counselor, or crisis line. You are not alone, and help is available.",
+    "labels": ["mental health", "suicide prevention", "hopelessness"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I reach out for help when I feel hopeless?",
+    "answer": "Start by contacting a trusted person in your life, such as a parent, teacher, or friend. If speaking feels difficult, write a message or call a helpline. Professionals can guide you toward recovery and support networks.",
+    "labels": ["mental health", "support systems", "crisis intervention"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I feel lonely even when surrounded by people?",
+    "answer": "Loneliness often comes from lacking meaningful connections rather than physical proximity. Open up to others about your feelings, join groups aligned with your interests, or volunteer to build deeper relationships.",
+    "labels": ["mental health", "loneliness", "connection"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I combat loneliness and build stronger friendships?",
+    "answer": "Take initiative by inviting friends to hang out or joining clubs/activities where you can meet like-minded individuals. Be vulnerable and authentic—it encourages reciprocity. Small gestures like checking in on others can strengthen bonds.",
+    "labels": ["mental health", "friendship", "social skills"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I feel guilty for taking breaks from responsibilities?",
+    "answer": "Guilt often arises from societal conditioning that equates rest with laziness. Remember, rest is essential for productivity and mental well-being. Schedule regular downtime and view it as part of maintaining balance.",
+    "labels": ["mental health", "self-care", "guilt"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I practice self-care without feeling selfish?",
+    "answer": "Self-care isn’t selfish—it’s necessary for sustaining your energy and emotional health. Start small: take a walk, read a book, or meditate daily. Explain to loved ones that caring for yourself benefits everyone around you.",
+    "labels": ["mental health", "self-care", "balance"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I struggle to ask for help when I’m struggling?",
+    "answer": "Asking for help can feel vulnerable or embarrassing, but it’s a sign of strength. Normalize seeking assistance by framing it as collaboration rather than dependency. Trusted adults or professionals can offer valuable guidance.",
+    "labels": ["mental health", "help-seeking", "vulnerability"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I open up to someone about my mental health struggles?",
+    "answer": "Choose a safe, supportive person and start with simple statements like, “I’ve been feeling overwhelmed lately.” Be honest about your needs, whether it’s listening or practical advice. If needed, suggest resources they can learn from.",
+    "labels": ["mental health", "communication", "support"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I feel like no one understands what I’m going through?",
+    "answer": "Feeling misunderstood can stem from isolation or stigma surrounding mental health. Find communities (online or offline) where people share similar experiences. A therapist can also provide understanding and tools tailored to your situation.",
+    "labels": ["mental health", "isolation", "validation"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "How do I explain my mental health issues to friends or family?",
+    "answer": "Use clear language to describe how you’re feeling and its impact on your daily life. For example, “I’ve been feeling really low lately, and it’s affecting my ability to focus.” Share specific ways they can support you, like listening or helping with tasks.",
+    "labels": ["mental health", "communication", "relationships"],
+    "category": "Mental Health"
+  },
+  {
+    "question": "Why do I feel worse after venting to others?",
+    "answer": "Sometimes venting can reinforce negative thought patterns if there’s no solution-focused discussion. Instead of just sharing problems, ask for constructive feedback or brainstorm solutions together. Balance venting with action steps.",
+    "labels": ["mental health", "venting", "problem-solving"],
+    "category": "Mental Health"
+  },
+
+
+
+  {
+    "question": "Why do I compare myself to others so much?",
+    "answer": "Social comparison is natural but often unhelpful. Remind yourself that everyone’s journey is unique, and what you see on social media or in person isn’t always reality. Focus on your own growth instead.",
+    "labels": ["self-image", "comparison", "social media"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I stop comparing myself to others?",
+    "answer": "Limit exposure to triggers like curated content online and practice gratitude for your strengths. Replace comparisons with inspiration—admire others’ achievements without tying them to your worth.",
+    "labels": ["self-image", "comparison", "mindfulness"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I feel ugly when I look in the mirror?",
+    "answer": "Negative self-talk can distort how you perceive yourself. Challenge these thoughts by listing three things you appreciate about your appearance. Surround yourself with positive influences who celebrate authenticity.",
+    "labels": ["self-image", "body image", "self-esteem"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I start loving the way I look?",
+    "answer": "Focus on functionality over aesthetics—appreciate what your body allows you to do. Practice affirmations like “I am enough as I am” and limit time spent critiquing your reflection. Seek professional help if negative thoughts persist.",
+    "labels": ["self-image", "body positivity", "self-love"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I focus on my flaws instead of my strengths?",
+    "answer": "Human brains are wired to notice imperfections, but this habit can harm self-esteem. Shift your mindset by writing down five strengths or accomplishments regularly. Celebrate progress, no matter how small.",
+    "labels": ["self-image", "perfectionism", "strengths"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I highlight my strengths rather than dwelling on flaws?",
+    "answer": "Create a “strengths journal” where you document compliments, achievements, and moments of pride. When you catch yourself focusing on flaws, redirect attention to one of these entries to remind yourself of your value.",
+    "labels": ["self-image", "self-worth", "positivity"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I feel ordinary compared to others?",
+    "answer": "Feeling ordinary often stems from comparing yourself to people who seem extraordinary. Remember, everyone has insecurities—even those who appear confident. Your uniqueness lies in your perspective and experiences.",
+    "labels": ["self-image", "comparison", "individuality"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I embrace being different from everyone else?",
+    "answer": "Celebrate qualities that make you stand out, whether it’s your sense of humor, creativity, or values. Join communities where diversity is celebrated, and surround yourself with people who appreciate your uniqueness.",
+    "labels": ["self-image", "individuality", "authenticity"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I minimize my accomplishments?",
+    "answer": "Minimizing achievements may stem from fear of judgment or imposter syndrome. Acknowledge your hard work and remind yourself that success doesn’t have to be validated by others—it’s yours to claim.",
+    "labels": ["self-image", "accomplishments", "confidence"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I internalize praise instead of dismissing it?",
+    "answer": "When someone compliments you, pause before responding. Silently acknowledge their words and let them sink in. Write down kind remarks you receive to revisit during moments of doubt.",
+    "labels": ["self-image", "validation", "self-worth"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I assume the worst about how others perceive me?",
+    "answer": "This assumption often comes from low self-esteem or past negative experiences. Challenge these thoughts by asking yourself: Is there evidence for this belief? Would I judge someone else so harshly?",
+    "labels": ["self-image", "perception", "self-doubt"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I stop caring what people think about me?",
+    "answer": "Recognize that most people are focused on their own lives, not yours. Reframe criticism as an opportunity to grow rather than a reflection of your worth. Build confidence by staying true to your values.",
+    "labels": ["self-image", "validation", "self-confidence"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I feel invisible among my peers?",
+    "answer": "Feeling overlooked can stem from low self-esteem or a lack of assertiveness. Speak up in conversations, share your ideas confidently, and seek environments where your contributions are valued.",
+    "labels": ["self-image", "visibility", "assertiveness"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "How do I gain recognition without feeling fake?",
+    "answer": "Authentically showcase your talents and passions through consistent effort. Let your work speak for itself, and avoid exaggerating achievements. Genuine confidence attracts respect naturally over time.",
+    "labels": ["self-image", "recognition", "authenticity"],
+    "category": "Self-Image & Comparison"
+  },
+  {
+    "question": "Why do I feel overshadowed by others’ successes?",
+    "answer": "Jealousy arises when we measure ourselves against others. Redirect energy toward personal goals and celebrate milestones along the way. Remember, success isn’t a competition—it’s subjective and personal.",
+    "labels": ["self-image", "jealousy", "success"],
+    "category": "Self-Image & Comparison"
+  },
+
+
+
+  {
+    "question": "Why do I crave validation from others so much?",
+    "answer": "Seeking validation is human, but relying on it too heavily can stem from low self-esteem or fear of being unaccepted. Practice affirming yourself and focus on internal satisfaction rather than external approval.",
+    "labels": ["validation", "self-worth", "approval"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I stop needing constant reassurance from others?",
+    "answer": "Build self-trust by setting small goals and acknowledging your achievements independently. Use positive affirmations daily to reinforce your value. Remember, your worth doesn’t depend on others’ opinions.",
+    "labels": ["validation", "independence", "self-confidence"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel validated only when people compliment me?",
+    "answer": "External compliments can temporarily boost confidence, but lasting validation comes from within. Reflect on qualities you admire about yourself and celebrate them without waiting for acknowledgment.",
+    "labels": ["validation", "compliments", "self-esteem"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I find validation within myself instead of seeking it externally?",
+    "answer": "Start journaling about your strengths, accomplishments, and moments of pride. Practice mindfulness to connect with your inner voice and recognize that you are enough as you are. Surround yourself with supportive people who reflect this truth.",
+    "labels": ["validation", "self-worth", "mindfulness"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel rejected when someone ignores my messages?",
+    "answer": "Feeling ignored can trigger fears of abandonment or inadequacy. Remind yourself that their response (or lack thereof) may not reflect your value. Focus on relationships where mutual respect exists.",
+    "labels": ["validation", "rejection", "relationships"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I handle rejection without taking it personally?",
+    "answer": "Reframe rejection as redirection—it’s not always about you. Acknowledge your feelings, then remind yourself that everyone experiences rejection. Focus on building resilience and surrounding yourself with uplifting influences.",
+    "labels": ["validation", "rejection", "resilience"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I equate popularity with happiness?",
+    "answer": "Popularity might seem appealing because it offers temporary attention, but true happiness comes from meaningful connections and personal fulfillment. Invest in quality friendships over superficial ones.",
+    "labels": ["popularity", "happiness", "relationships"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I stop obsessing over becoming popular?",
+    "answer": "Shift focus from quantity to quality in relationships. Spend time with people who genuinely care about you rather than chasing widespread recognition. Authenticity attracts deeper, more fulfilling bonds.",
+    "labels": ["popularity", "authenticity", "social dynamics"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel excluded even when I try to fit in?",
+    "answer": "Fitting in often means conforming to group norms, which isn’t sustainable if it compromises your authenticity. Instead of trying to please everyone, seek out individuals or groups aligned with your values.",
+    "labels": ["popularity", "exclusion", "belonging"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I build genuine friendships instead of chasing popularity?",
+    "answer": "Be yourself and prioritize shared interests and mutual respect. Join clubs, teams, or activities that align with your passions—you’ll naturally meet like-minded people. Deep connections matter more than surface-level popularity.",
+    "labels": ["popularity", "friendship", "authenticity"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel guilty for wanting attention?",
+    "answer": "Wanting attention is normal—it’s a basic human need for connection. The key is balancing it with giving attention to others. Seek healthy ways to express yourself, like sharing art, ideas, or stories.",
+    "labels": ["validation", "attention", "guilt"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I get noticed without feeling desperate?",
+    "answer": "Focus on showcasing your talents, skills, or personality authentically. Engage actively in conversations, contribute meaningfully to discussions, and let your uniqueness shine naturally. Confidence attracts organic interest.",
+    "labels": ["validation", "recognition", "confidence"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel jealous of popular people?",
+    "answer": "Jealousy arises when we perceive others as having something we desire. Reframe this emotion by focusing on your unique qualities and contributions. Popularity doesn’t guarantee happiness—it’s subjective.",
+    "labels": ["popularity", "jealousy", "comparison"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "How do I deal with envy toward popular peers?",
+    "answer": "Channel envy into inspiration—admire their strengths while embracing your own. Recognize that popularity has downsides too, like pressure to maintain an image. Focus on cultivating genuine relationships instead.",
+    "labels": ["popularity", "envy", "self-awareness"],
+    "category": "Validation & Popularity"
+  },
+  {
+    "question": "Why do I feel pressured to act differently around certain people?",
+    "answer": "This pressure often stems from wanting acceptance or avoiding judgment. While adapting slightly in different contexts is normal, staying true to your core values ensures long-term peace and authenticity.",
+    "labels": ["validation", "identity", "authenticity"],
+    "category": "Validation & Popularity"
+  },
+
+
+  {
+    "question": "Why do I feel overwhelmed by my workload?",
+    "answer": "Feeling overwhelmed often stems from having too many tasks without clear priorities. Break your workload into smaller, manageable steps and focus on one task at a time. Use tools like planners or apps to stay organized.",
+    "labels": ["workload", "burnout", "stress management"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I manage multiple responsibilities without burning out?",
+    "answer": "Prioritize tasks based on urgency and importance. Delegate when possible, and don’t hesitate to say no to non-essential commitments. Schedule regular breaks to recharge and maintain a healthy work-life balance.",
+    "labels": ["workload", "burnout", "time management"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do assignments pile up faster than I can finish them?",
+    "answer": "Procrastination or poor planning can lead to mounting tasks. Create a daily schedule with realistic goals and stick to it. Tackle high-priority items first, and break larger projects into smaller milestones.",
+    "labels": ["workload", "productivity", "organization"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I prioritize tasks effectively when everything feels urgent?",
+    "answer": "Use the Eisenhower Matrix: divide tasks into four categories—urgent/important, not urgent/important, urgent/not important, and neither. Focus on what truly matters and delegate or eliminate less critical tasks.",
+    "labels": ["workload", "prioritization", "decision-making"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do I feel exhausted all the time?",
+    "answer": "Burnout occurs when you consistently push yourself beyond limits without rest. Identify sources of stress and address them directly. Incorporate self-care practices like exercise, meditation, and adequate sleep into your routine.",
+    "labels": ["burnout", "exhaustion", "self-care"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I recognize signs of burnout early?",
+    "answer": "Watch for symptoms like chronic fatigue, irritability, lack of motivation, or difficulty concentrating. If you notice these signs, take immediate action: reduce workload, seek support, and prioritize restorative activities.",
+    "labels": ["burnout", "mental health", "awareness"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do I neglect hobbies and relaxation for academics?",
+    "answer": "The pressure to succeed academically can overshadow other aspects of life. Remind yourself that downtime boosts productivity and creativity. Block off time for hobbies and treat them as non-negotiable appointments.",
+    "labels": ["workload", "balance", "leisure"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I rediscover joy outside of schoolwork?",
+    "answer": "Reconnect with activities that once brought you happiness—whether it’s art, sports, music, or spending time with loved ones. Experiment with new hobbies to reignite curiosity and passion outside academics.",
+    "labels": ["burnout", "hobbies", "fulfillment"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do I sacrifice self-care for studying?",
+    "answer": "Self-sacrifice often arises from fear of falling behind or failing. However, neglecting self-care lowers overall performance. Treat rest, nutrition, and exercise as essential components of success—not distractions.",
+    "labels": ["burnout", "self-care", "well-being"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I incorporate breaks into my daily routine?",
+    "answer": "Use techniques like the Pomodoro Method: work for 25 minutes, then take a 5-minute break. During breaks, stretch, hydrate, or step away from screens. Longer breaks every few hours help prevent fatigue and maintain focus.",
+    "labels": ["workload", "productivity", "rest"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do group projects cause tension and frustration?",
+    "answer": "Unequal contributions, miscommunication, or conflicting personalities can strain teamwork. Set clear expectations early, assign roles based on strengths, and communicate openly to resolve conflicts constructively.",
+    "labels": ["workload", "teamwork", "conflict resolution"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I collaborate effectively without conflict?",
+    "answer": "Establish ground rules for communication and deadlines. Be proactive in addressing issues calmly and respectfully. Focus on shared goals rather than individual differences, and celebrate team successes together.",
+    "labels": ["workload", "collaboration", "team dynamics"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do deadlines overwhelm me so much?",
+    "answer": "Deadlines feel overwhelming when they’re viewed as insurmountable. Break tasks into smaller steps and create mini-deadlines leading up to the final date. Visualize completing each step to build momentum.",
+    "labels": ["workload", "time management", "stress relief"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "How do I create a realistic schedule to meet deadlines?",
+    "answer": "Estimate how long each task will take and allocate buffer time for unexpected delays. Prioritize tasks by deadline and complexity. Review your schedule daily to adjust as needed and ensure progress.",
+    "labels": ["workload", "planning", "organization"],
+    "category": "Workload & Burnout"
+  },
+  {
+    "question": "Why do I procrastinate until the last minute?",
+    "answer": "Procrastination often results from perfectionism, fear of failure, or feeling overwhelmed. Combat it by starting with easy tasks to build momentum. Use timers to stay focused and reward yourself for completing milestones.",
+    "labels": ["workload", "procrastination", "focus"],
+    "category": "Workload & Burnout"
+  },
+
+
+
+
+  {
+    "question": "Why do I feel insecure in my romantic relationship?",
+    "answer": "Insecurity often stems from past experiences, fear of abandonment, or low self-esteem. Communicate openly with your partner about your feelings and work on building confidence within yourself.",
+    "labels": ["relationships", "romantic", "insecurity"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I build trust after being hurt in a relationship?",
+    "answer": "Rebuilding trust takes time and consistent effort. Be honest about your needs and boundaries, and give your partner opportunities to demonstrate reliability. Seek counseling if necessary to address deeper wounds.",
+    "labels": ["relationships", "trust", "healing"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do arguments happen so often in my friendships?",
+    "answer": "Frequent arguments may result from miscommunication, differing expectations, or unresolved conflicts. Practice active listening, validate each other’s perspectives, and agree to take breaks during heated discussions.",
+    "labels": ["relationships", "friendship", "conflict resolution"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I handle jealousy in my friendships?",
+    "answer": "Jealousy can arise when you feel left out or compare yourself to others. Focus on appreciating your unique qualities and communicate openly with your friend about how you're feeling without blaming them.",
+    "labels": ["relationships", "jealousy", "friendship"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do I feel like I’m always giving more than I receive in friendships?",
+    "answer": "Imbalanced friendships can lead to resentment. Express your feelings calmly and set clear boundaries. If the dynamic doesn’t improve, consider spending less time with that person and nurturing reciprocal relationships instead.",
+    "labels": ["relationships", "friendship", "balance"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I deal with toxic friendships?",
+    "answer": "Identify behaviors that make you uncomfortable, such as manipulation or negativity. Set firm boundaries and limit contact if needed. Surround yourself with supportive people who uplift and respect you.",
+    "labels": ["relationships", "toxicity", "boundaries"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do breakups hurt so much?",
+    "answer": "Breakups involve loss—of companionship, shared dreams, and routines—which triggers grief. Allow yourself to process emotions fully, lean on supportive friends/family, and focus on self-care during this time.",
+    "labels": ["relationships", "breakups", "grief"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I move on after losing someone I loved deeply?",
+    "answer": "Acknowledge your pain and allow yourself to grieve. Reflect on lessons learned from the relationship and focus on rediscovering your independence. Engage in activities that bring joy and reconnect with loved ones.",
+    "labels": ["relationships", "heartbreak", "recovery"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do I blame myself for relationship failures?",
+    "answer": "Self-blame often arises from perfectionism or guilt. Recognize that relationships involve two people, and both share responsibility for outcomes. Learn from the experience and forgive yourself for imperfections.",
+    "labels": ["relationships", "self-blame", "growth"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I trust again after being betrayed?",
+    "answer": "Rebuilding trust requires patience and discernment. Take time to heal before jumping into new relationships, and look for signs of honesty and consistency in potential partners or friends. Therapy can also help process betrayal trauma.",
+    "labels": ["relationships", "betrayal", "trust"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do I attract unhealthy relationships?",
+    "answer": "Unhealthy patterns may stem from unresolved personal issues or attachment styles. Reflect on what you seek in relationships and whether those traits align with your well-being. Work on self-love and establish strong boundaries.",
+    "labels": ["relationships", "patterns", "self-awareness"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I recognize red flags in a relationship early on?",
+    "answer": "Pay attention to controlling behavior, lack of respect, dishonesty, or excessive jealousy. Trust your instincts—if something feels off, it likely is. Prioritize mutual respect and open communication above all else.",
+    "labels": ["relationships", "red flags", "awareness"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do I feel lonely even when I’m in a relationship?",
+    "answer": "Loneliness in a relationship may indicate emotional disconnection or unmet needs. Communicate openly with your partner about your feelings and explore ways to deepen intimacy through quality time and shared activities.",
+    "labels": ["relationships", "loneliness", "emotional connection"],
+    "category": "Relationships"
+  },
+  {
+    "question": "How do I balance independence with closeness in a relationship?",
+    "answer": "Maintain hobbies, friendships, and personal goals outside the relationship while fostering shared experiences. Respect each other’s need for space and ensure neither partner feels smothered or neglected.",
+    "labels": ["relationships", "balance", "independence"],
+    "category": "Relationships"
+  },
+  {
+    "question": "Why do I push people away when I want closeness?",
+    "answer": "Pushing people away might stem from fear of vulnerability or past hurts. Reflect on underlying fears and practice gradual openness. Let trusted individuals know you’re working on improving this dynamic.",
+    "labels": ["relationships", "vulnerability", "closeness"],
+    "category": "Relationships"
+  },
+
+
+  
+  {
+    "question": "Why do people bully others?",
+    "answer": "Bullying often stems from the bully's own insecurities, jealousy, or desire for control. Understanding this doesn’t excuse their behavior, but it can help you detach emotionally and focus on your well-being.",
+    "labels": ["bullying", "cyberbullying", "motivation"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I deal with being bullied at school?",
+    "answer": "Tell a trusted teacher, counselor, or parent about what’s happening. Avoid engaging with the bully, as this may escalate the situation. Surround yourself with supportive friends who can stand by you.",
+    "labels": ["bullying", "school", "support"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do I feel powerless when someone bullies me online?",
+    "answer": "Cyberbullying can make you feel trapped because it follows you everywhere. Remember, you have power: block the bully, report the behavior to platforms, and confide in someone you trust for emotional support.",
+    "labels": ["cyberbullying", "powerlessness", "online safety"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I stand up for myself without escalating the situation?",
+    "answer": "Use assertive language like, 'I don’t appreciate that comment,' and walk away if possible. Stay calm and avoid retaliating, as this gives the bully more ammunition. Document incidents in case further action is needed.",
+    "labels": ["bullying", "assertiveness", "conflict resolution"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do bystanders rarely intervene during bullying?",
+    "answer": "Bystanders may fear becoming targets themselves or assume someone else will step in. However, speaking up—even indirectly, like reporting the incident—can make a huge difference. Encourage peers to act collectively against bullying.",
+    "labels": ["bullying", "bystander effect", "intervention"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I encourage others to report bullying they witness?",
+    "answer": "Educate friends about the impact of bullying and emphasize the importance of speaking up. Suggest anonymous reporting options if they’re uncomfortable intervening directly. Lead by example and take action yourself when safe.",
+    "labels": ["bullying", "advocacy", "awareness"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why does cyberbullying feel worse than in-person bullying?",
+    "answer": "Cyberbullying feels pervasive because it happens 24/7 and reaches a wider audience. The anonymity of the internet also emboldens bullies. Limit exposure by muting/blocking offenders and focusing on offline connections.",
+    "labels": ["cyberbullying", "anonymity", "impact"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I protect myself from cyberbullies?",
+    "answer": "Adjust privacy settings on social media, avoid sharing personal information publicly, and block/report abusive accounts. Save evidence of harassment in case authorities need to get involved later.",
+    "labels": ["cyberbullying", "online safety", "privacy"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do I feel ashamed after being bullied?",
+    "answer": "Shame often arises from internalizing the bully’s words or believing you deserve mistreatment. Remind yourself that bullying reflects the bully’s issues, not your worth. Seek therapy to process these emotions.",
+    "labels": ["bullying", "shame", "self-worth"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I rebuild confidence after being bullied?",
+    "answer": "Focus on activities that showcase your strengths and surround yourself with positive influences. Practice self-affirmations daily and remind yourself that bullying isn’t a reflection of your value.",
+    "labels": ["bullying", "confidence", "healing"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do bullies target certain individuals?",
+    "answer": "Targets are often chosen based on perceived vulnerabilities, differences, or talents that evoke envy. Recognize that being targeted says nothing about your flaws—it highlights the bully’s weaknesses.",
+    "labels": ["bullying", "targeting", "vulnerability"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I know when to involve adults in bullying situations?",
+    "answer": "Involve adults whenever bullying becomes persistent, escalates, or affects your mental health. Trusted adults can mediate conflicts, enforce consequences, and provide guidance tailored to the situation.",
+    "labels": ["bullying", "adult involvement", "decision-making"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do some teachers or parents dismiss bullying complaints?",
+    "answer": "Dismissal may occur due to misunderstanding severity, assuming kids will “work it out,” or lacking training on handling such issues. Advocate for yourself by documenting incidents and seeking alternative sources of support.",
+    "labels": ["bullying", "dismissal", "advocacy"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "How do I cope with anonymous harassment online?",
+    "answer": "Block the account, report the content to the platform, and resist the urge to respond. Anonymous attacks aim to provoke reactions; staying silent removes their power. Lean on trusted friends or family for emotional support.",
+    "labels": ["cyberbullying", "anonymity", "coping mechanisms"],
+    "category": "Bullying & Cyberbullying"
+  },
+  {
+    "question": "Why do rumors spread so quickly, especially online?",
+    "answer": "The internet amplifies gossip because information travels instantly and widely. Instead of engaging, focus on disproving falsehoods through actions over time. Trustworthy people will see through lies eventually.",
+    "labels": ["cyberbullying", "rumors", "reputation"],
+    "category": "Bullying & Cyberbullying"
+  },
+
+
+
+  {
+    "question": "Why do people experiment with drugs or alcohol?",
+    "answer": "Experimentation often stems from curiosity, peer pressure, stress relief, or a desire to fit in. While occasional use might seem harmless, it’s important to understand the risks and potential for dependency.",
+    "labels": ["substance use", "experimentation", "peer pressure"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I resist peer pressure to drink or smoke?",
+    "answer": "Be firm but polite when declining offers, using phrases like, 'I’m good, thanks,' or 'Not my thing.' Surround yourself with friends who respect your choices and prioritize activities that don’t involve substances.",
+    "labels": ["substance use", "peer pressure", "assertiveness"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do I feel tempted to try vaping or smoking?",
+    "answer": "Temptation may come from social influences, marketing tactics, or perceived relaxation benefits. Educate yourself on the health risks, including addiction and lung damage, and find healthier ways to cope with stress.",
+    "labels": ["substance use", "vaping", "temptation"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I recognize signs of addiction in myself or others?",
+    "answer": "Look for changes in behavior, such as increased secrecy, neglecting responsibilities, withdrawal symptoms, or needing more of the substance to feel its effects. Early recognition allows for timely intervention.",
+    "labels": ["addiction", "signs", "awareness"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do some people become addicted while others don’t?",
+    "answer": "Addiction risk depends on genetics, environment, mental health, and frequency of use. Some individuals are more vulnerable due to predispositions, but repeated exposure increases risks for anyone.",
+    "labels": ["addiction", "risk factors", "genetics"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I talk to someone about their substance use without offending them?",
+    "answer": "Approach the conversation with empathy, focusing on concern rather than judgment. Use “I” statements like, 'I’ve noticed you seem different lately, and I care about your well-being.' Offer support, not criticism.",
+    "labels": ["substance use", "communication", "support"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do I feel guilty after drinking or using drugs?",
+    "answer": "Guilt often arises from regret over impaired decisions or negative impacts on relationships. Acknowledge these feelings as a sign of self-awareness, and consider whether continued use aligns with your values.",
+    "labels": ["substance use", "guilt", "self-reflection"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I cut back on drinking or drug use?",
+    "answer": "Set clear limits beforehand (e.g., number of drinks) and avoid triggers like certain environments or peers. Seek accountability from trusted friends or professionals if needed. Gradual reduction can prevent withdrawal symptoms.",
+    "labels": ["substance use", "reduction", "self-control"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why does quitting substances feel so hard?",
+    "answer": "Quitting can be challenging due to physical dependence, cravings, and emotional reliance. Withdrawal symptoms vary by substance but highlight the body’s adjustment process. Professional guidance can ease this transition.",
+    "labels": ["addiction", "quitting", "withdrawal"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I seek help for substance abuse or addiction?",
+    "answer": "Reach out to a trusted adult, counselor, or helpline specializing in addiction recovery. Treatment options include therapy, support groups (e.g., AA/NA), and rehabilitation programs. You’re not alone—help is available.",
+    "labels": ["addiction", "help-seeking", "resources"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do I turn to substances when I’m stressed?",
+    "answer": "Substances may temporarily relieve stress but ultimately worsen problems. Explore healthier coping mechanisms like exercise, journaling, or talking to someone you trust. Address root causes of stress directly.",
+    "labels": ["substance use", "stress", "coping mechanisms"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I avoid relapsing after quitting substances?",
+    "answer": "Identify triggers (people, places, emotions) and develop strategies to manage them. Build a strong support network, engage in fulfilling activities, and celebrate milestones in sobriety. Slip-ups happen—focus on progress, not perfection.",
+    "labels": ["addiction", "relapse prevention", "recovery"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do parties always seem to revolve around drinking or drugs?",
+    "answer": "Social norms sometimes normalize substance use at gatherings, but not everyone participates. Suggest alternative activities like game nights, outdoor adventures, or creative projects to shift the focus away from substances.",
+    "labels": ["substance use", "social dynamics", "alternatives"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "How do I explain to friends that I don’t want to drink or use drugs?",
+    "answer": "Be honest yet respectful: 'I choose not to drink/use because it doesn’t align with my goals/lifestyle.' Most true friends will respect your decision. If they don’t, reconsider whether they truly have your best interests at heart.",
+    "labels": ["substance use", "communication", "boundaries"],
+    "category": "Substance Use & Addiction"
+  },
+  {
+    "question": "Why do substances make me feel worse afterward?",
+    "answer": "While substances may provide temporary relief or euphoria, they disrupt brain chemistry and lead to crashes, guilt, or regret. Long-term use can harm both physical and mental health. Prioritize sustainable happiness over fleeting highs.",
+    "labels": ["substance use", "consequences", "health"],
+    "category": "Substance Use & Addiction"
+  },
+
+
+
+
+  {
+    "question": "Why does losing someone feel so unbearable?",
+    "answer": "Loss disrupts our sense of stability and connection, triggering deep emotional pain. Allow yourself to grieve fully—it’s a natural response to love and attachment. Lean on supportive people and remember that healing takes time.",
+    "labels": ["grief", "loss", "emotional pain"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I cope with the death of a loved one?",
+    "answer": "Acknowledge your feelings without judgment—cry, talk, write, or create art to express them. Establish rituals like lighting candles or visiting meaningful places. Seek counseling if grief feels overwhelming or prolonged.",
+    "labels": ["grief", "death", "coping mechanisms"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do I feel guilty after losing someone close to me?",
+    "answer": "Survivor’s guilt or regret over unresolved issues can amplify grief. Remind yourself that no relationship is perfect, and you did the best you could. Focus on cherishing memories rather than dwelling on what wasn’t said or done.",
+    "labels": ["grief", "guilt", "forgiveness"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I honor the memory of someone I lost?",
+    "answer": "Create tributes like planting a tree, starting a scholarship fund, or compiling photos/stories. Incorporate their values into your life as a way to keep their spirit alive. Celebrating their impact helps transform pain into purpose.",
+    "labels": ["grief", "memory", "tribute"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do I still miss someone years after they’re gone?",
+    "answer": "Missing someone reflects the depth of your bond—it’s okay to carry that love forward indefinitely. Over time, the sharp edges of grief soften, but memories remain. Find comfort in knowing they shaped who you are today.",
+    "labels": ["grief", "long-term grief", "memories"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I support a friend who is grieving?",
+    "answer": "Listen without offering unsolicited advice; simply being present matters most. Offer practical help like cooking meals or running errands. Check in regularly, even months later, as grief doesn’t follow a timeline.",
+    "labels": ["grief", "support", "empathy"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why does losing a pet feel just as painful as losing a person?",
+    "answer": "Pets provide unconditional love and companionship, leaving an irreplaceable void when they pass. Their loss deserves acknowledgment and mourning. Surround yourself with understanding friends or join pet-loss support groups.",
+    "labels": ["grief", "pet loss", "bonding"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I find closure after a sudden or unexpected loss?",
+    "answer": "Closure may come from creating rituals, writing letters to the deceased, or seeking therapy to process shock and anger. Accept that answers might never fully come, but focusing on gratitude for shared moments can bring peace.",
+    "labels": ["grief", "closure", "unexpected loss"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do I feel stuck in my grief and unable to move forward?",
+    "answer": "Feeling stuck can happen when grief feels insurmountable or isolating. Break routines gently by engaging in small activities that bring joy. Consider professional guidance to navigate complex emotions and rediscover hope.",
+    "labels": ["grief", "stagnation", "healing"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I reconcile faith/spirituality with the pain of loss?",
+    "answer": "Many turn to faith for solace, while others struggle with existential questions. Reflect on teachings that resonate with you, pray, meditate, or discuss doubts with spiritual leaders. Loss can deepen your understanding of life’s mysteries.",
+    "labels": ["grief", "spirituality", "faith"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do I feel angry after losing someone?",
+    "answer": "Anger is a normal part of grief, often stemming from feelings of unfairness or unmet expectations. Channel this energy into constructive outlets like exercise, journaling, or advocacy work inspired by the deceased’s passions.",
+    "labels": ["grief", "anger", "processing emotions"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I explain death to a younger sibling or child?",
+    "answer": "Use simple, honest language appropriate for their age: 'Their body stopped working, and they can’t come back.' Reassure them it’s okay to feel sad, answer questions patiently, and encourage expression through drawing or storytelling.",
+    "labels": ["grief", "children", "communication"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do anniversaries or holidays make grief harder?",
+    "labels": ["grief", "anniversary reactions", "holidays"],
+    "answer": "Special occasions remind us of the absence left by loved ones. Plan ahead by incorporating traditions that honor them, spending time with supportive friends, or taking quiet moments for reflection.",
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "How do I turn my grief into something positive or meaningful?",
+    "answer": "Channel your emotions into acts of service, creativity, or advocacy aligned with the deceased’s passions. Volunteering, mentoring, or fundraising gives purpose to pain and honors their legacy.",
+    "labels": ["grief", "purpose", "transformation"],
+    "category": "Grief & Loss"
+  },
+  {
+    "question": "Why do some people say ‘time heals all wounds’ when it doesn’t feel true?",
+    "answer": "While time alone won’t erase grief, it provides space to adjust and integrate loss into your life story. Healing isn’t linear—it ebbs and flows—but growth becomes possible as you learn to live alongside your pain.",
+    "labels": ["grief", "healing", "time"],
+    "category": "Grief & Loss"
+  },
+
+
+
+
+  {
+    "question": "Why do I feel lost when trying to choose a career?",
+    "answer": "Choosing a career can feel overwhelming due to endless options and societal expectations. Start by identifying your passions, strengths, and values. Experiment with internships, volunteering, or informational interviews to explore possibilities.",
+    "labels": ["career exploration", "uncertainty", "decision-making"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I know if a career path is right for me?",
+    "answer": "Reflect on whether the career aligns with your interests, skills, and long-term goals. Consider shadowing professionals in the field, taking online courses, or working part-time to test compatibility before committing fully.",
+    "labels": ["career exploration", "fit", "self-assessment"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I doubt my ability to succeed in my chosen career?",
+    "answer": "Self-doubt often stems from fear of failure or imposter syndrome. Break down your goals into smaller steps and celebrate incremental wins. Surround yourself with mentors who believe in your potential and provide guidance.",
+    "labels": ["career exploration", "self-doubt", "confidence"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I deal with rejection after applying for jobs?",
+    "answer": "Rejection is a normal part of the job search process—it’s not a reflection of your worth. Analyze feedback (if provided), refine your resume/cover letter, and keep networking. Persistence builds resilience and increases chances of success.",
+    "labels": ["job stress", "rejection", "resilience"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I feel stressed about entering the workforce?",
+    "answer": "The transition to full-time employment brings uncertainty about responsibilities, competition, and financial stability. Prepare by building relevant skills, seeking mentorship, and practicing self-care to manage anxiety effectively.",
+    "labels": ["job stress", "workforce entry", "anxiety"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I balance work and personal life as a young professional?",
+    "answer": "Set boundaries between work hours and personal time. Prioritize tasks at work to avoid overcommitting, and schedule regular downtime for hobbies, relaxation, and socializing. Communicate your limits clearly to colleagues.",
+    "labels": ["job stress", "work-life balance", "boundaries"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I feel like I’m underperforming at my job?",
+    "answer": "Underperformance may result from unclear expectations, lack of training, or perfectionism. Seek clarification from supervisors, request additional resources if needed, and focus on progress rather than perfection.",
+    "labels": ["job stress", "performance", "growth mindset"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I handle conflicts with coworkers or bosses?",
+    "answer": "Address conflicts calmly and professionally by focusing on facts rather than emotions. Use “I” statements to express your perspective and listen actively to theirs. If unresolved, involve HR or seek mediation assistance.",
+    "labels": ["job stress", "conflict resolution", "communication"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I dread going to work every day?",
+    "answer": "Dread may stem from burnout, toxic environments, or misalignment with your values. Evaluate what specifically drains you—is it workload, culture, or role mismatch? Explore changes within your current position or consider new opportunities.",
+    "labels": ["job stress", "burnout", "motivation"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I ask for a raise or promotion confidently?",
+    "answer": "Prepare by documenting your accomplishments, contributions, and market research on fair compensation. Schedule a meeting with your supervisor, present your case assertively, and remain open to feedback or negotiation.",
+    "labels": ["career exploration", "advocacy", "negotiation"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I feel stuck in my current job?",
+    "answer": "Feeling stuck may arise from monotony, lack of growth opportunities, or unmet aspirations. Identify areas for development within your role or explore lateral moves, further education, or entirely new fields that excite you.",
+    "labels": ["career exploration", "stagnation", "growth"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I leave a toxic workplace without jeopardizing my career?",
+    "answer": "Document instances of toxicity for reference, update your resume/portfolio, and secure another job offer before resigning. Exit gracefully by providing notice and maintaining professionalism—even if the environment was challenging.",
+    "labels": ["job stress", "toxicity", "transition"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I struggle with networking and building professional connections?",
+    "answer": "Networking can feel intimidating, but it’s about fostering genuine relationships, not just transactions. Start small by attending industry events, joining online communities, or reaching out to alumni. Focus on mutual interests and support.",
+    "labels": ["career exploration", "networking", "relationships"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "How do I stay motivated during a long and uncertain job search?",
+    "answer": "Break the process into manageable steps, such as updating LinkedIn daily or contacting two recruiters weekly. Celebrate small victories, maintain a routine, and remind yourself why you’re pursuing this path. Stay connected with supportive peers.",
+    "labels": ["job stress", "motivation", "persistence"],
+    "category": "Career Exploration & Job Stress"
+  },
+  {
+    "question": "Why do I feel guilty taking breaks at work?",
+    "answer": "Guilt may come from internalized pressure to always be productive. Remind yourself that breaks improve focus, creativity, and overall performance. Schedule short pauses throughout the day to recharge—your brain will thank you.",
+    "labels": ["job stress", "breaks", "productivity"],
+    "category": "Career Exploration & Job Stress"
+  },
+
+
+
+
+
+  {
+    "question": "Why do I always run out of time to finish my tasks?",
+    "answer": "Running out of time often stems from poor planning or underestimating how long tasks take. Use a planner or digital tools to break projects into smaller steps and allocate realistic deadlines for each part.",
+    "labels": ["time management", "planning", "productivity"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I stop procrastinating on important assignments?",
+    "answer": "Break the task into manageable chunks and start with the easiest step to build momentum. Set a timer (e.g., Pomodoro Technique) to create focused work intervals, and reward yourself after completing milestones.",
+    "labels": ["procrastination", "focus", "motivation"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I wait until the last minute to start working?",
+    "answer": "Last-minute rushes often result from fear of failure, perfectionism, or lack of clarity. Combat this by setting early, self-imposed deadlines and reminding yourself that progress matters more than perfection.",
+    "labels": ["procrastination", "perfectionism", "delayed action"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I prioritize tasks when everything seems urgent?",
+    "answer": "Use the Eisenhower Matrix: divide tasks into four categories—urgent/important, not urgent/important, urgent/not important, and neither. Focus first on what truly aligns with your goals and deadlines.",
+    "labels": ["time management", "prioritization", "decision-making"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do distractions constantly derail my focus?",
+    "answer": "Distractions thrive in environments without clear boundaries. Identify common triggers (e.g., phone notifications, noise) and eliminate them during focused work sessions. Create a dedicated workspace to minimize interruptions.",
+    "labels": ["time management", "distractions", "focus"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I stay disciplined when I don’t feel motivated?",
+    "answer": "Motivation isn’t always reliable; discipline is key. Build habits through consistent routines—even small actions add up over time. Pair unpleasant tasks with something enjoyable, like listening to music while studying.",
+    "labels": ["procrastination", "discipline", "habits"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I underestimate how long tasks will take?",
+    "answer": "Underestimation happens due to optimism bias or failing to account for unexpected delays. Practice tracking actual time spent on similar tasks to improve accuracy. Add buffer time to future plans for contingencies.",
+    "labels": ["time management", "task estimation", "realistic planning"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I avoid multitasking and stay focused on one thing at a time?",
+    "answer": "Multitasking reduces efficiency and increases errors. Instead, batch similar tasks together and dedicate specific blocks of time to each. Use techniques like deep work sessions to immerse yourself fully in one activity.",
+    "labels": ["time management", "multitasking", "focus"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I struggle to stick to my schedule?",
+    "answer": "Schedules fail when they’re too rigid or unrealistic. Be flexible enough to adapt to changing circumstances, but also hold yourself accountable. Review your schedule daily to adjust priorities and celebrate adherence.",
+    "labels": ["time management", "scheduling", "accountability"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I create a daily routine that actually works for me?",
+    "answer": "Design a routine based on your natural energy levels—schedule demanding tasks during peak productivity hours. Include breaks, exercise, and leisure to prevent burnout. Test and tweak the routine until it feels sustainable.",
+    "labels": ["time management", "routine", "productivity"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I lose track of time so easily?",
+    "answer": "Losing track of time can happen when you’re overly absorbed in activities or distracted by technology. Use alarms or timers to segment your day, and regularly check in with yourself to ensure alignment with priorities.",
+    "labels": ["time management", "awareness", "focus"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I manage my time effectively while juggling multiple responsibilities?",
+    "answer": "Prioritize tasks using tools like to-do lists or apps. Delegate or automate where possible, and set boundaries to protect your time. Regularly evaluate which responsibilities are essential versus optional.",
+    "labels": ["time management", "responsibilities", "balance"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I feel guilty for taking breaks?",
+    "answer": "Guilt comes from equating rest with laziness, but breaks enhance productivity and creativity. Schedule short pauses strategically to recharge. Remind yourself that downtime makes you more effective in the long run.",
+    "labels": ["time management", "breaks", "self-care"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "How do I overcome the habit of saying ‘I’ll do it later’?",
+    "answer": "Challenge the habit by committing to just five minutes of the task right away—you’ll often find momentum carries you further. Visualize the consequences of delaying and remind yourself of the benefits of completion.",
+    "labels": ["procrastination", "habit change", "action"],
+    "category": "Time Management & Procrastination"
+  },
+  {
+    "question": "Why do I feel overwhelmed even with a plan in place?",
+    "answer": "Overwhelm may occur if the plan is too ambitious or lacks flexibility. Simplify your approach by focusing on three key tasks per day. Break larger projects into smaller, less intimidating steps to regain control.",
+    "labels": ["time management", "overwhelm", "simplification"],
+    "category": "Time Management & Procrastination"
+  },
+
+
+
+  
+  {
+    "question": "Why do I constantly question the meaning of life?",
+    "answer": "Questioning life’s purpose is natural, especially during transitional phases like adolescence or early adulthood. Reflect on what brings you joy, fulfillment, and connection—meaning often emerges from lived experiences rather than abstract answers.",
+    "labels": ["existential crises", "meaning", "self-discovery"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I find purpose when everything feels meaningless?",
+    "answer": "Start small by identifying activities that energize or inspire you. Purpose doesn’t have to be grand—it can come from relationships, hobbies, or contributing to something larger than yourself. Experimentation helps uncover passions over time.",
+    "labels": ["existential crises", "purpose", "fulfillment"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel paralyzed by thoughts of death or mortality?",
+    "answer": "Fear of death is human, but it can overshadow living if dwelled upon excessively. Reframe mortality as motivation to live fully now. Focus on creating meaningful moments and cherishing connections with loved ones.",
+    "labels": ["existential crises", "mortality", "fear"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I stop obsessing over whether my life has an impact?",
+    "answer": "Shift focus from global significance to local impact—how are you making a difference in your immediate circle? Small acts of kindness, creativity, or mentorship ripple outward. Trust that your unique contributions matter, even quietly.",
+    "labels": ["existential crises", "impact", "contribution"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel like nothing I do will ever be enough?",
+    "answer": "This feeling often stems from perfectionism or comparing yourself to impossible standards. Acknowledge that ‘enough’ is subjective and varies for everyone. Celebrate effort and progress instead of chasing unattainable ideals.",
+    "labels": ["existential crises", "perfectionism", "self-worth"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I deal with the fear of failure or insignificance?",
+    "answer": "Reframe failure as part of growth—every misstep teaches resilience and adaptability. Insignificance is relative; focus on what makes *you* feel significant, whether it’s personal achievements, relationships, or creative expression.",
+    "labels": ["existential crises", "failure", "growth mindset"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel lost when thinking about my future?",
+    "answer": "Uncertainty about the future is common, especially during periods of change. Break down long-term goals into short-term steps, and embrace flexibility. Life unfolds gradually—you don’t need all the answers right away.",
+    "labels": ["existential crises", "future", "uncertainty"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I cope with feeling insignificant compared to others?",
+    "answer": "Comparison diminishes individuality. Remember that everyone’s journey is unique—you’re not meant to measure up to someone else’s path. Focus on cultivating gratitude for your strengths and accomplishments, no matter how small.",
+    "labels": ["existential crises", "comparison", "self-acceptance"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel guilty for wanting happiness when there’s so much suffering in the world?",
+    "answer": "Empathy is admirable, but guilt isn’t productive. Balance compassion for others with self-care—it’s possible to contribute positively while pursuing your own well-being. Happiness enables you to help others more effectively.",
+    "labels": ["existential crises", "guilt", "empathy"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I reconcile spirituality with existential doubts?",
+    "answer": "Doubt is a natural part of spiritual exploration. Engage in practices like meditation, prayer, or journaling to deepen your understanding. Seek wisdom from diverse traditions or mentors who encourage open inquiry without judgment.",
+    "labels": ["existential crises", "spirituality", "doubt"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel trapped in routines despite searching for meaning?",
+    "answer": "Routines provide stability but can feel limiting if they lack alignment with your values. Infuse daily life with intention—revisit hobbies, explore new interests, or volunteer for causes you care about to reignite passion.",
+    "labels": ["existential crises", "routine", "intentionality"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I handle the pressure to leave a legacy behind?",
+    "answer": "Legacy isn’t defined solely by monumental achievements—it’s also shaped by kindness, influence, and memories shared with others. Focus on living authentically and fostering genuine connections rather than forcing grandeur.",
+    "labels": ["existential crises", "legacy", "authenticity"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do I feel disconnected from the world around me?",
+    "answer": "Disconnection may arise from stress, isolation, or overwhelming stimuli. Reconnect through mindfulness practices, spending time in nature, or engaging in community service. Building bridges starts with small, intentional actions.",
+    "labels": ["existential crises", "disconnection", "mindfulness"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "How do I create a sense of belonging in an uncertain world?",
+    "answer": "Belonging comes from shared values and mutual respect, not external validation. Cultivate deep friendships, join communities aligned with your passions, and practice vulnerability to foster authentic connections.",
+    "labels": ["existential crises", "belonging", "community"],
+    "category": "Existential Crises"
+  },
+  {
+    "question": "Why do existential thoughts keep me awake at night?",
+    "answer": "Big questions tend to surface when the mind is quiet. If these thoughts disrupt sleep, designate specific times during the day for reflection. Journaling or talking to a trusted friend/therapist can help process them constructively.",
+    "labels": ["existential crises", "sleep", "reflection"],
+    "category": "Existential Crises"
+  },
+
+  
+
+
+  {
+    "question": "Why do I feel tired all the time despite getting enough sleep?",
+    "answer": "Fatigue can stem from factors beyond sleep duration, such as poor sleep quality, dehydration, stress, or underlying health issues. Evaluate your bedtime routine, diet, and daily habits to identify potential causes.",
+    "labels": ["physical health", "fatigue", "sleep"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I improve my sleep quality?",
+    "answer": "Establish a consistent sleep schedule, create a relaxing pre-bedtime routine (e.g., reading or meditating), and limit screen time before bed. Ensure your sleeping environment is dark, quiet, and cool for optimal rest.",
+    "labels": ["physical health", "sleep hygiene", "restoration"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I struggle to eat healthy consistently?",
+    "answer": "Healthy eating challenges often arise from lack of planning, convenience foods, or emotional triggers. Prep meals ahead of time, keep nutritious snacks accessible, and practice mindful eating to curb impulsive choices.",
+    "labels": ["physical health", "nutrition", "habits"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I start exercising regularly without burning out?",
+    "answer": "Begin with short, manageable workouts (e.g., 10–15 minutes) and gradually increase intensity. Choose activities you enjoy, like dancing or hiking, to make exercise fun rather than a chore. Listen to your body to avoid overtraining.",
+    "labels": ["physical health", "fitness", "motivation"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I crave junk food so much?",
+    "answer": "Cravings may result from nutrient deficiencies, stress, or habitual snacking patterns. Address cravings by incorporating balanced meals rich in protein, fiber, and healthy fats, which stabilize blood sugar levels and reduce temptation.",
+    "labels": ["physical health", "nutrition", "cravings"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I stay hydrated throughout the day?",
+    "answer": "Carry a reusable water bottle and set reminders to drink at regular intervals. Flavor water with lemon, cucumber, or mint if plain tastes unappealing. Monitor urine color—pale yellow indicates proper hydration.",
+    "labels": ["physical health", "hydration", "wellness"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I get frequent headaches or migraines?",
+    "answer": "Headaches can result from dehydration, poor posture, eye strain, or stress. Track potential triggers (e.g., caffeine, screen time) and consult a doctor if symptoms persist. Practice relaxation techniques and maintain good ergonomics.",
+    "labels": ["physical health", "headaches", "pain management"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I manage chronic pain effectively?",
+    "answer": "Work with healthcare providers to develop a personalized plan involving physical therapy, medication, or alternative treatments like acupuncture. Incorporate gentle movement, stretching, and mindfulness practices to alleviate discomfort.",
+    "labels": ["physical health", "chronic pain", "self-care"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I feel stiff and sore after sitting for long periods?",
+    "answer": "Prolonged sitting weakens muscles and strains joints. Take breaks every 30–60 minutes to stretch or walk around. Use ergonomic furniture and practice exercises targeting posture, flexibility, and core strength.",
+    "labels": ["physical health", "posture", "ergonomics"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I build muscle without going to the gym?",
+    "answer": "Bodyweight exercises like push-ups, squats, and planks are effective alternatives to gym workouts. Resistance bands, household items (e.g., water bottles), and online workout videos can also help you build strength at home.",
+    "labels": ["physical health", "fitness", "home workouts"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I catch colds or illnesses frequently?",
+    "answer": "Frequent illness may indicate a weakened immune system due to stress, poor diet, or insufficient sleep. Boost immunity by eating nutrient-rich foods, staying active, managing stress, and maintaining good hygiene practices.",
+    "labels": ["physical health", "immunity", "prevention"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I deal with seasonal allergies naturally?",
+    "answer": "Minimize exposure to allergens by keeping windows closed, showering after outdoor activities, and using air purifiers. Natural remedies include saline nasal sprays, honey (local if possible), and herbal teas like peppermint or nettle.",
+    "labels": ["physical health", "allergies", "natural remedies"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I experience digestive issues so often?",
+    "answer": "Digestive problems may stem from dietary choices, stress, or intolerances. Keep a food diary to identify triggers, incorporate probiotic-rich foods (e.g., yogurt, sauerkraut), and stay hydrated to support gut health.",
+    "labels": ["physical health", "digestion", "gut health"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "How do I recover quickly from an injury?",
+    "answer": "Follow the RICE method: Rest, Ice, Compression, and Elevation. Avoid rushing back into activity; allow adequate healing time. Strengthen surrounding muscles gradually under professional guidance to prevent re-injury.",
+    "labels": ["physical health", "injuries", "recovery"],
+    "category": "Physical Health & Wellness"
+  },
+  {
+    "question": "Why do I feel anxious about seeing a doctor?",
+    "answer": "Anxiety about medical visits may stem from fear of bad news, past experiences, or uncertainty. Prepare by writing down questions, bringing a supportive friend, or discussing fears with the doctor upfront—they’re there to help, not judge.",
+    "labels": ["physical health", "healthcare", "anxiety"],
+    "category": "Physical Health & Wellness"
+  },
+
+
+
+  
+  {
+    "question": "Why do I feel drained after spending hours on my phone?",
+    "answer": "Excessive screen time can lead to mental exhaustion due to constant stimulation and information overload. Set limits using apps or timers, and take regular breaks to rest your eyes and mind.",
+    "labels": ["technology overload", "screen time", "mental fatigue"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I reduce my daily screen time effectively?",
+    "answer": "Start by identifying non-essential uses of technology (e.g., scrolling social media). Replace these habits with offline activities like reading, exercising, or spending time outdoors. Use features like app timers to enforce boundaries.",
+    "labels": ["digital detox", "productivity", "balance"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do I feel anxious when I’m away from my devices?",
+    "answer": "This anxiety may stem from FOMO (fear of missing out) or dependency on tech for connection. Gradually increase device-free periods, starting with short intervals, and remind yourself that being present offline enriches life more deeply.",
+    "labels": ["technology overload", "anxiety", "FOMO"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I perform a successful digital detox?",
+    "answer": "Plan your detox ahead of time: choose specific days/times to unplug, notify friends/family, and prepare alternative activities (e.g., journaling, hiking). Start small if needed—detoxing doesn’t have to mean going completely off-grid.",
+    "labels": ["digital detox", "unplugging", "mindfulness"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do notifications make me so distracted?",
+    "answer": "Notifications trigger dopamine release, making them hard to ignore. Turn off non-essential alerts, enable ‘Do Not Disturb’ mode during focused work, and designate times to check messages intentionally rather than reactively.",
+    "labels": ["technology overload", "distractions", "focus"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I stop feeling guilty for taking breaks from social media?",
+    "answer": "Remember that stepping away from social media isn’t selfish—it’s necessary for mental well-being. Reframe breaks as acts of self-care, reminding yourself that real-life interactions and personal growth matter more than online presence.",
+    "labels": ["digital detox", "guilt", "self-care"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do I compare my life to others’ highlight reels online?",
+    "answer": "Social media showcases curated realities that aren’t reflective of everyday life. Limit exposure to accounts that trigger comparisons, and focus on sharing authentically instead of striving for perfection.",
+    "labels": ["technology overload", "comparison", "social media"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I create healthier boundaries with technology?",
+    "answer": "Establish clear rules, such as no phones at meals or before bed. Designate tech-free zones (e.g., bedroom) and replace evening screen time with calming rituals like reading or meditation. Communicate your boundaries to others respectfully.",
+    "labels": ["digital detox", "boundaries", "wellness"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do I procrastinate on important tasks by browsing online?",
+    "answer": "Online distractions provide instant gratification compared to challenging tasks. Break projects into smaller steps to lower resistance, use website blockers during work sessions, and reward yourself for staying focused.",
+    "labels": ["technology overload", "procrastination", "focus"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I manage gaming addiction or excessive video game play?",
+    "answer": "Set strict time limits for gaming and track usage honestly. Replace gaming sessions with fulfilling hobbies or physical activities. Seek support groups or therapy if you find it difficult to cut back independently.",
+    "labels": ["digital detox", "addiction", "gaming"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do I feel restless without access to Wi-Fi or data?",
+    "answer": "Constant connectivity creates reliance, but moments of disconnection foster creativity and mindfulness. Practice embracing boredom as an opportunity for reflection, and gradually extend periods without internet access.",
+    "labels": ["technology overload", "connectivity", "restlessness"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I encourage family members to join me in a digital detox?",
+    "answer": "Lead by example and explain the benefits of unplugging together. Plan fun offline activities like board games, cooking, or outdoor adventures. Frame the detox as quality bonding time rather than deprivation.",
+    "labels": ["digital detox", "family", "togetherness"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why does multitasking with devices make me less productive?",
+    "answer": "Multitasking splits attention, reducing efficiency and increasing errors. Focus on one task at a time, keeping devices out of reach unless absolutely necessary. Single-tasking boosts concentration and outcomes significantly.",
+    "labels": ["technology overload", "multitasking", "productivity"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "How do I deal with peer pressure to stay constantly connected online?",
+    "answer": "Politely communicate your need for balance, emphasizing that unplugging helps you recharge. Surround yourself with people who respect your boundaries and share similar values around mindful tech use.",
+    "labels": ["digital detox", "peer pressure", "boundaries"],
+    "category": "Technology Overload & Digital Detox"
+  },
+  {
+    "question": "Why do I feel guilty deleting social media apps temporarily?",
+    "answer": "Guilt often arises from fear of missing updates or disappointing followers. Remind yourself that temporary absences benefit your mental health and allow you to reconnect meaningfully with real-world priorities.",
+    "labels": ["digital detox", "guilt", "social media"],
+    "category": "Technology Overload & Digital Detox"
+  },
+
+
+
+  
+  {
+    "question": "Why do I feel pressured to follow traditional career paths?",
+    "answer": "Societal expectations often emphasize stability and conformity, but your path should align with your passions and values. Explore diverse fields, seek mentorship, and remind yourself that success looks different for everyone.",
+    "labels": ["cultural expectations", "career", "individuality"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I challenge stereotypes without alienating my community?",
+    "answer": "Start by fostering open conversations about diversity and inclusion within your circle. Share personal stories or examples that break stereotypes gently. Leading through action and empathy encourages understanding rather than defensiveness.",
+    "labels": ["cultural expectations", "stereotypes", "advocacy"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do I feel torn between my heritage and modern values?",
+    "answer": "Balancing tradition and modernity can be challenging. Embrace elements of both worlds—honor your roots while adapting practices to fit your life today. Remember, integrating cultures enriches your identity rather than diluting it.",
+    "labels": ["cultural expectations", "identity", "heritage"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I resist societal pressures to conform to beauty standards?",
+    "answer": "Focus on inner qualities like kindness, resilience, and creativity that define true beauty. Surround yourself with body-positive influences and celebrate uniqueness over perfection. Confidence comes from authenticity, not comparison.",
+    "labels": ["societal expectations", "beauty standards", "self-acceptance"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do people expect me to act according to my gender role?",
+    "answer": "Gender roles are social constructs shaped by history and culture, not universal truths. Politely assert your autonomy when faced with such expectations, and surround yourself with allies who support your authentic self-expression.",
+    "labels": ["cultural expectations", "gender roles", "authenticity"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I find acceptance when I don’t fit societal molds?",
+    "answer": "Seek communities—online or offline—that value individuality and inclusivity. Build relationships based on mutual respect and shared interests. Remember, fitting into society’s mold isn’t necessary for happiness; belonging starts with self-acceptance.",
+    "labels": ["societal expectations", "acceptance", "community"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do I feel guilty for pursuing dreams outside my family’s expectations?",
+    "answer": "Guilt often arises from loyalty to loved ones, but fulfilling your potential benefits everyone in the long run. Communicate openly with your family about your aspirations and reassure them of your commitment to staying connected despite differing paths.",
+    "labels": ["cultural expectations", "family", "guilt"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I handle criticism for not adhering to cultural traditions?",
+    "answer": "Acknowledge critics’ perspectives respectfully but stand firm in your choices. Explain your reasoning calmly and highlight how honoring your personal journey honors your culture in its own way. Seek support from those who understand your perspective.",
+    "labels": ["cultural expectations", "traditions", "criticism"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do I feel like an outsider in my own culture?",
+    "answer": "Feeling disconnected may stem from evolving values or experiences diverging from mainstream norms. Connect with subcultures or niche groups that resonate with your worldview. Building bridges within your community can also foster greater understanding.",
+    "labels": ["cultural expectations", "belonging", "identity"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I embrace my cultural background while living abroad?",
+    "answer": "Stay connected to your heritage through food, language, music, or celebrations. Share your culture with others to deepen appreciation and learn from theirs too. Balancing adaptation with preservation strengthens your sense of self.",
+    "labels": ["cultural expectations", "identity", "adaptation"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do societal norms make me doubt my choices?",
+    "answer": "Norms reflect collective beliefs, but they aren’t absolute truths. Reflect on what truly matters to you and evaluate decisions based on alignment with your values. Trust that your unique path contributes to a richer tapestry of human experience.",
+    "labels": ["societal expectations", "norms", "decision-making"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I navigate conflicting advice from elders and peers?",
+    "answer": "Listen to both perspectives with an open mind but prioritize what feels right for you. Elders offer wisdom rooted in experience, while peers provide contemporary insights. Blend their guidance thoughtfully to forge your own path.",
+    "labels": ["cultural expectations", "advice", "conflict resolution"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do I feel judged for prioritizing education/career over marriage?",
+    "answer": "Judgment stems from outdated beliefs equating worth with relationship status. Remind yourself that milestones are personal and timing varies. Share your goals confidently, emphasizing how achievement enriches your life and future partnerships.",
+    "labels": ["societal expectations", "judgment", "priorities"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "How do I advocate for change within rigid societal structures?",
+    "answer": "Start small by challenging norms in everyday interactions—question biases, amplify marginalized voices, and propose inclusive alternatives. Collaborate with like-minded individuals to create ripple effects that inspire broader transformation.",
+    "labels": ["cultural expectations", "advocacy", "change"],
+    "category": "Cultural/Societal Expectations"
+  },
+  {
+    "question": "Why do I struggle to balance familial obligations with personal desires?",
+    "answer": "Familial duties and personal ambitions often compete for attention. Set clear boundaries and communicate openly about your needs. Compromise where possible, ensuring neither side feels neglected while maintaining your well-being.",
+    "labels": ["cultural expectations", "family", "balance"],
+    "category": "Cultural/Societal Expectations"
+  },
+
+
+
+  {
+    "question": "Why do I feel like a fraud even when I achieve success?",
+    "answer": "Imposter syndrome tricks you into dismissing your accomplishments as luck or external factors. Remind yourself that effort and skill contributed to your success. Keep a record of positive feedback and achievements to counteract negative thoughts.",
+    "labels": ["imposter syndrome", "self-doubt", "success"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I stop doubting my abilities at work or school?",
+    "answer": "Acknowledge that everyone has moments of uncertainty. Focus on evidence of your competence, such as completed projects or positive evaluations. Practice reframing negative thoughts by replacing them with affirmations like, 'I earned this opportunity.'",
+    "labels": ["imposter syndrome", "confidence", "abilities"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do compliments make me uncomfortable?",
+    "answer": "Compliments may trigger imposter feelings because they conflict with your internal narrative of inadequacy. Instead of deflecting praise, practice accepting it graciously by saying 'thank you' and reflecting on its truthfulness later.",
+    "labels": ["imposter syndrome", "validation", "compliments"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I overcome the fear of being 'found out'?",
+    "answer": "Recognize that no one knows everything—even experts feel uncertain sometimes. Share your vulnerabilities with trusted colleagues or mentors; chances are, they’ve felt similarly. Reframe mistakes as learning opportunities rather than proof of incompetence.",
+    "labels": ["imposter syndrome", "fear", "vulnerability"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I attribute my success to luck instead of hard work?",
+    "answer": "Downplaying effort is a hallmark of imposter syndrome. Start tracking your progress and documenting the steps you took to achieve goals. This tangible evidence will help reinforce the connection between your actions and outcomes.",
+    "labels": ["imposter syndrome", "luck", "hard work"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I silence my inner critic when it tells me I’m not good enough?",
+    "answer": "Challenge your inner critic by questioning its validity: Is there real evidence supporting these thoughts? Replace harsh self-talk with compassionate phrases like, 'I am capable and doing my best.' Mindfulness practices can also help quiet negativity.",
+    "labels": ["imposter syndrome", "inner critic", "mindfulness"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I compare myself to others who seem more accomplished?",
+    "answer": "Comparison amplifies imposter feelings by focusing on perceived gaps. Remember that social media and public personas rarely reflect reality. Celebrate your unique journey and focus on personal growth rather than external benchmarks.",
+    "labels": ["imposter syndrome", "comparison", "accomplishment"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I accept praise without feeling guilty?",
+    "answer": "Practice gratitude for the recognition and remind yourself that you earned it through dedication and skill. If guilt arises, redirect it toward motivation to continue improving. Over time, accepting praise becomes easier with consistent effort.",
+    "labels": ["imposter syndrome", "guilt", "praise"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I feel unqualified despite meeting all requirements?",
+    "answer": "Feeling underqualified often stems from setting unrealistically high standards for yourself. Revisit job descriptions or qualifications to confirm you meet expectations objectively. Trust that those who hired or selected you recognize your potential.",
+    "labels": ["imposter syndrome", "qualifications", "standards"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I build confidence in my expertise?",
+    "answer": "Engage in continuous learning to deepen your knowledge while recognizing that mastery takes time. Teach or mentor others—it reinforces your understanding and highlights your strengths. Small wins accumulate into lasting confidence.",
+    "labels": ["imposter syndrome", "expertise", "confidence"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I procrastinate due to fear of failure?",
+    "answer": "Fear of failure paralyzes action because mistakes might confirm imposter fears. Break tasks into smaller steps to reduce overwhelm and view failures as stepping stones to improvement. Perfection isn’t required to succeed.",
+    "labels": ["imposter syndrome", "procrastination", "failure"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I deal with perfectionism fueling my imposter feelings?",
+    "answer": "Perfectionism sets impossible standards that exacerbate imposter syndrome. Embrace imperfection by setting realistic goals and celebrating incremental progress. Remind yourself that done is better than perfect, especially when deadlines loom.",
+    "labels": ["imposter syndrome", "perfectionism", "goals"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I avoid taking risks because of imposter syndrome?",
+    "answer": "Risk aversion stems from fear of exposing weaknesses or failing publicly. Reframe risk-taking as an opportunity for growth rather than judgment. Start with low-stakes challenges to build resilience and trust in your abilities.",
+    "labels": ["imposter syndrome", "risk-taking", "growth"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "How do I find support for dealing with imposter syndrome?",
+    "answer": "Share your struggles with trusted friends, mentors, or therapists—they likely relate or can offer perspective. Join communities where members openly discuss imposter feelings; realizing you’re not alone reduces isolation and builds solidarity.",
+    "labels": ["imposter syndrome", "support", "community"],
+    "category": "Imposter Syndrome"
+  },
+  {
+    "question": "Why do I downplay my achievements to others?",
+    "answer": "Minimizing accomplishments protects against potential rejection or criticism but reinforces imposter feelings. Practice owning your successes by stating facts confidently without exaggeration. Authenticity earns respect and combats self-doubt.",
+    "labels": ["imposter syndrome", "achievements", "authenticity"],
+    "category": "Imposter Syndrome"
+  },
+
+
+
+
+  {
+    "question": "Why do arguments escalate so quickly?",
+    "answer": "Arguments often escalate due to heightened emotions, miscommunication, or defensiveness. Practice active listening, stay calm, and focus on the issue at hand rather than personal attacks. Taking breaks can also prevent escalation.",
+    "labels": ["conflict resolution", "arguments", "emotions"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I stay calm during heated discussions?",
+    "answer": "Pause before responding to gather your thoughts, and take deep breaths to regulate your emotions. Use “I” statements instead of accusatory language, and remind yourself that the goal is understanding, not winning.",
+    "labels": ["conflict resolution", "calmness", "communication"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do people misunderstand what I’m trying to say during conflicts?",
+    "answer": "Misunderstandings arise from unclear language, tone, or assumptions. Be concise and specific when expressing yourself, and check for understanding by asking the other person to summarize your point.",
+    "labels": ["conflict resolution", "miscommunication", "clarity"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I apologize effectively after a disagreement?",
+    "answer": "A sincere apology acknowledges harm caused without excuses (e.g., “I’m sorry for hurting you”). Validate the other person’s feelings and outline steps to prevent repeating the behavior. Timing and humility matter greatly.",
+    "labels": ["conflict resolution", "apology", "reconciliation"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do I avoid addressing conflicts directly?",
+    "answer": "Avoidance may stem from fear of confrontation, rejection, or making things worse. However, unresolved issues fester over time. Start small by framing the conversation as collaborative problem-solving rather than blame.",
+    "labels": ["conflict resolution", "avoidance", "confrontation"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I approach someone who seems unapproachable during a conflict?",
+    "answer": "Choose an appropriate time and place for the discussion, ensuring privacy and minimal distractions. Begin with empathy: “I notice we’ve had some tension lately, and I’d like to understand your perspective.” Stay open-minded and patient.",
+    "labels": ["conflict resolution", "approachability", "empathy"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do I feel defensive when criticized, even if it’s constructive?",
+    "answer": "Defensiveness is a natural response to perceived threats. Reframe criticism as an opportunity for growth rather than judgment. Listen fully before responding, and ask clarifying questions to ensure mutual understanding.",
+    "labels": ["conflict resolution", "defensiveness", "feedback"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I resolve conflicts without yelling or raising my voice?",
+    "answer": "Focus on staying composed by speaking slowly and maintaining eye contact. If emotions run high, suggest pausing the conversation until both parties are calmer. Respectful dialogue fosters trust and de-escalates tension.",
+    "labels": ["conflict resolution", "anger management", "respect"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do some conflicts seem impossible to resolve?",
+    "answer": "Unresolved conflicts often involve deeply rooted beliefs, past grievances, or power imbalances. Identify shared goals and areas of agreement to build momentum toward solutions. Professional mediation may help in persistent cases.",
+    "labels": ["conflict resolution", "resolution", "complexity"],
+    "category": "Conflict Resolution Solutions"
+  },
+  {
+    "question": "How do I compromise without feeling like I’m losing out?",
+    "answer": "Compromise requires prioritizing mutual benefit over individual gain. Clearly articulate your needs and listen actively to theirs. Find creative solutions where both sides win, even if partially—collaboration builds stronger relationships.",
+    "labels": ["conflict resolution", "compromise", "negotiation"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do I struggle to forgive someone after a conflict?",
+    "answer": "Forgiveness can be challenging when trust feels broken or wounds remain fresh. Reflect on whether holding onto resentment serves you. Forgiving doesn’t mean forgetting—it means releasing negativity to move forward constructively.",
+    "labels": ["conflict resolution", "forgiveness", "healing"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I mediate conflicts between friends or family members?",
+    "answer": "Act as a neutral party by encouraging each side to share their perspective without interruption. Summarize key points to ensure clarity, and guide them toward identifying common ground. Avoid taking sides or imposing solutions.",
+    "labels": ["conflict resolution", "mediation", "neutrality"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do passive-aggressive behaviors worsen conflicts?",
+    "answer": "Passive-aggressiveness avoids direct communication, creating confusion and resentment. Address it by calmly confronting the behavior: “I sense there might be something bothering you. Can we talk openly about it?” Encourage transparency.",
+    "labels": ["conflict resolution", "passive aggression", "communication"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "How do I handle conflicts with authority figures respectfully?",
+    "answer": "Approach authority figures with professionalism and respect, focusing on facts rather than emotions. Use polite language and propose solutions rather than just pointing out problems. Demonstrating maturity increases receptiveness.",
+    "labels": ["conflict resolution", "authority", "respect"],
+    "category": "Conflict Resolution Skills"
+  },
+  {
+    "question": "Why do I replay arguments in my head long after they’re over?",
+    "answer": "Ruminating reflects unresolved emotions or lingering doubts. Journaling or discussing the situation with a trusted friend can provide closure. Focus on lessons learned and actionable steps moving forward instead of dwelling.",
+    "labels": ["conflict resolution", "rumination", "closure"],
+    "category": "Conflict Resolution Skills"
+  },
+
+
+
+
+  {
+    "question": "Why do big transitions feel so overwhelming?",
+    "answer": "Transitions involve stepping into the unknown, which can trigger anxiety and uncertainty. Break down the change into smaller, manageable steps, and focus on what you can control. Remind yourself that adaptation takes time.",
+    "labels": ["transition challenges", "change", "adaptation"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I adjust to a new school environment?",
+    "answer": "Start by exploring your surroundings and getting familiar with routines. Join clubs or activities to meet people with similar interests. Be patient with yourself—building connections and comfort happens gradually.",
+    "labels": ["transition challenges", "school", "adjustment"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I miss my old life so much after moving?",
+    "answer": "Missing familiarity is natural during transitions. Acknowledge these feelings without judgment and find ways to incorporate elements of your old life into your new one (e.g., hobbies, traditions). Over time, create new memories while cherishing the past.",
+    "labels": ["transition challenges", "homesickness", "nostalgia"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I make friends in a completely new place?",
+    "answer": "Put yourself out there by attending social events, joining groups, or volunteering. Initiate conversations with simple topics like shared experiences or interests. Building friendships takes effort but becomes easier with consistency.",
+    "labels": ["transition challenges", "friendship", "social skills"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I feel lost when starting college or university?",
+    "answer": "The freedom and independence of college can be disorienting at first. Establish a routine, seek guidance from advisors, and explore campus resources. Remember, it’s okay to feel uncertain—most students experience this phase too.",
+    "labels": ["transition challenges", "college", "independence"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I balance academics and social life in college?",
+    "answer": "Prioritize time management by creating a schedule that includes study sessions, breaks, and social activities. Avoid overcommitting early on; focus on quality interactions rather than quantity. Balance will improve with practice.",
+    "labels": ["transition challenges", "balance", "time management"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I struggle to adapt to living independently?",
+    "answer": "Independence requires learning new responsibilities like budgeting, cooking, and managing time. Start small by mastering one skill at a time, and don’t hesitate to ask for help when needed. Growth comes through trial and error.",
+    "labels": ["transition challenges", "independence", "responsibility"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I cope with homesickness when I’m far from family?",
+    "answer": "Stay connected through regular calls or video chats, but also immerse yourself in your new environment. Decorate your space with comforting items from home, and build a support network locally. Homesickness lessens as you settle in.",
+    "labels": ["transition challenges", "homesickness", "support"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I feel unprepared for adulthood after graduation?",
+    "answer": "The transition to adulthood often feels abrupt because real-world responsibilities differ from structured environments like school. Focus on building practical skills (e.g., financial literacy) and embrace lifelong learning—it’s okay not to have everything figured out immediately.",
+    "labels": ["transition challenges", "adulthood", "preparedness"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I handle culture shock when moving to a new country?",
+    "answer": "Learn about cultural norms and customs beforehand, and observe how locals interact. Stay open-minded and curious, treating differences as opportunities for growth. Connect with expat communities or cultural exchange programs for support.",
+    "labels": ["transition challenges", "culture shock", "adaptation"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I feel anxious about starting a new job?",
+    "answer": "Anxiety stems from wanting to succeed and fit in. Prepare by researching the company culture and role expectations. On Day One, focus on listening, asking questions, and observing—it’s normal to take time to adjust.",
+    "labels": ["transition challenges", "workplace", "anxiety"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I navigate leaving behind close friends during a move?",
+    "answer": "Acknowledge the sadness of parting but celebrate the bond you’ve built. Promise to stay in touch regularly, whether through texts, calls, or visits. Leaving doesn’t mean losing—true friendships endure distance.",
+    "labels": ["transition challenges", "friendship", "moving"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I second-guess my decision to pursue a major career change?",
+    "answer": "Uncertainty is common when stepping outside your comfort zone. Reflect on why you chose this path and visualize long-term benefits. Talk to mentors or professionals in the field for reassurance and advice.",
+    "labels": ["transition challenges", "career change", "decision-making"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "How do I maintain my identity during challenging transitions?",
+    "answer": "Ground yourself in core values and passions that define who you are. Engage in activities that remind you of your strengths and purpose. Transitions may alter circumstances, but they don’t erase who you fundamentally are.",
+    "labels": ["transition challenges", "identity", "self-awareness"],
+    "category": "Transition Challenges"
+  },
+  {
+    "question": "Why do I feel guilty for leaving loved ones behind during a transition?",
+    "answer": "Guilt arises from fear of abandonment or burdening others. Communicate openly about your feelings and reassure loved ones of your continued connection. Leaving isn’t selfish—it’s necessary for personal growth and opportunity.",
+    "labels": ["transition challenges", "guilt", "relationships"],
+    "category": "Transition Challenges"
+  },
+
+
+  
+
+  {
+    "question": "Why do I struggle to find time for my creative hobbies?",
+    "answer": "Creative hobbies often get sidelined by daily responsibilities. Schedule dedicated blocks of time—even just 15–30 minutes—for your passion projects. Treat this time as non-negotiable, like an appointment with yourself.",
+    "labels": ["creativity", "time management", "hobbies"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I rediscover my creative spark when I feel uninspired?",
+    "answer": "Expose yourself to new experiences—visit museums, listen to music, or explore nature. Experiment with different mediums or techniques without pressure to create something perfect. Inspiration often strikes when you least expect it.",
+    "labels": ["creativity", "inspiration", "motivation"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I doubt my creative abilities so much?",
+    "answer": "Self-doubt stems from comparing your work to others or fearing criticism. Focus on the process rather than the outcome, and remind yourself that creativity is subjective. Celebrate small wins to build confidence over time.",
+    "labels": ["creativity", "self-doubt", "confidence"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I overcome creative block or writer’s block?",
+    "answer": "Take a break and engage in activities unrelated to your project—go for a walk, meditate, or journal freely. Lower expectations temporarily; start with rough drafts or sketches instead of aiming for perfection. Momentum will return gradually.",
+    "labels": ["creativity", "creative block", "productivity"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I feel guilty spending time on creative pursuits?",
+    "answer": "Guilt arises from prioritizing productivity over personal fulfillment. Reframe creativity as essential self-care—it fuels joy, innovation, and mental clarity. Remind yourself that pursuing passions makes you more balanced and energized overall.",
+    "labels": ["creativity", "guilt", "prioritization"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I balance my creative passions with academic/work responsibilities?",
+    "answer": "Integrate creativity into your routine by setting realistic goals, such as working on projects during weekends or evenings. Use productivity tools to manage deadlines efficiently, ensuring both areas receive attention without burnout.",
+    "labels": ["creativity", "balance", "responsibilities"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I hesitate to share my creative work with others?",
+    "answer": "Fear of judgment or rejection can hold you back. Start by sharing with trusted friends or supportive communities who appreciate your efforts. Remember, feedback helps growth, and not everyone needs to resonate with your art.",
+    "labels": ["creativity", "sharing", "fear"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I turn my creative passion into a career or side hustle?",
+    "answer": "Research industries related to your craft, network with professionals, and build a portfolio showcasing your best work. Start small by offering services or selling creations online. Combine passion with business acumen to sustainably grow.",
+    "labels": ["creativity", "career", "entrepreneurship"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I lose interest in creative projects halfway through?",
+    "answer": "Losing interest may result from setting overly ambitious goals or losing sight of why you started. Break projects into smaller milestones and focus on enjoying each step. Revisit your initial inspiration to reignite enthusiasm.",
+    "labels": ["creativity", "motivation", "perseverance"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I stay consistent with practicing my creative skills?",
+    "answer": "Set achievable daily or weekly goals, such as sketching one drawing or writing 200 words. Track progress using journals or apps to hold yourself accountable. Consistency builds momentum and improves skill over time.",
+    "labels": ["creativity", "practice", "consistency"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I compare my creative work to others’ achievements?",
+    "answer": "Comparison diminishes originality and breeds insecurity. Focus inward by defining success on your terms. Limit exposure to competitive environments if they drain your energy, and celebrate your unique voice and style.",
+    "labels": ["creativity", "comparison", "originality"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I find my artistic voice or style?",
+    "answer": "Experiment with various techniques, themes, and mediums until something resonates deeply. Analyze what excites or fulfills you most in your creations. Your authentic voice emerges naturally through exploration and repetition.",
+    "labels": ["creativity", "artistic voice", "exploration"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why does failure discourage me from continuing creative endeavors?",
+    "answer": "Failure feels discouraging because we attach our worth to outcomes. Reframe failures as learning opportunities—they highlight areas for improvement. Keep creating despite setbacks; resilience strengthens your creative journey.",
+    "labels": ["creativity", "failure", "resilience"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "How do I collaborate creatively with others without conflict?",
+    "answer": "Establish clear roles, expectations, and communication channels upfront. Respect differing perspectives and approach disagreements constructively. Collaboration thrives when everyone feels valued and heard.",
+    "labels": ["creativity", "collaboration", "teamwork"],
+    "category": "Creativity & Passion Pursuits"
+  },
+  {
+    "question": "Why do I feel like my creative ideas aren’t good enough?",
+    "answer": "This feeling often stems from perfectionism or fear of inadequacy. Trust the iterative process—ideas evolve and improve with effort. Share early drafts with supportive peers to gain perspective and encouragement.",
+    "labels": ["creativity", "ideas", "self-criticism"],
+    "category": "Creativity & Passion Pursuits"
+  },
+
+
+
+
+  {
+    "question": "Why do I struggle to trust people after being betrayed?",
+    "answer": "Betrayal leaves emotional scars that make vulnerability difficult. Recognize that not everyone will hurt you the same way. Take time to heal, and start by trusting small, consistent actions from others before fully opening up.",
+    "labels": ["trust", "betrayal", "healing"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I rebuild trust after someone breaks it?",
+    "answer": "Rebuilding trust requires transparency, accountability, and patience. The person who broke trust must demonstrate reliability over time. Communicate openly about your feelings and set clear expectations moving forward.",
+    "labels": ["trust", "rebuilding", "communication"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why does betrayal hurt so deeply?",
+    "answer": "Betrayal strikes at the core of trust and connection, leaving us feeling vulnerable and questioning our judgment. Acknowledge your pain, seek support from loved ones, and remind yourself that healing takes time.",
+    "labels": ["betrayal", "emotional pain", "vulnerability"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I forgive someone who betrayed me?",
+    "answer": "Forgiveness doesn’t mean excusing harmful behavior—it means releasing resentment for your own peace. Reflect on whether reconciliation is possible, and set boundaries if needed to protect yourself in the future.",
+    "labels": ["betrayal", "forgiveness", "boundaries"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do I feel guilty for losing trust in someone close to me?",
+    "answer": "Guilt may arise from wanting to maintain the relationship despite mistrust. Validate your feelings—losing trust is a natural response to broken promises. Focus on open communication to either repair or redefine the relationship.",
+    "labels": ["trust", "guilt", "relationships"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I know if someone deserves my trust again?",
+    "answer": "Look for consistent, honest behavior over time. Does the person take responsibility for their actions? Are they making efforts to rebuild trust? Trust evolves gradually; don’t rush the process based solely on apologies.",
+    "labels": ["trust", "evaluation", "decision-making"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do some people betray those they care about?",
+    "answer": "Betrayal often stems from personal struggles like insecurity, fear, or poor decision-making rather than malice. While this doesn’t excuse the act, understanding motivations can aid forgiveness and closure.",
+    "labels": ["betrayal", "motivations", "understanding"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I communicate my need for trust in a relationship?",
+    "answer": "Express your feelings calmly and specifically: “I value honesty because it strengthens our bond.” Avoid accusatory language, and focus on collaborative solutions to build mutual trust and respect.",
+    "labels": ["trust", "communication", "relationships"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do I keep replaying moments of betrayal in my mind?",
+    "answer": "Ruminating reflects unresolved emotions or fears of recurrence. Journal about your thoughts, talk to a therapist, or engage in grounding activities to shift focus. Letting go doesn’t erase the memory but reduces its power over you.",
+    "labels": ["betrayal", "rumination", "closure"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I prevent betrayals in future relationships?",
+    "answer": "Establish clear boundaries and expectations early on. Foster open communication, and address concerns promptly instead of letting them fester. Surround yourself with trustworthy individuals who prioritize honesty.",
+    "labels": ["trust", "prevention", "boundaries"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do I second-guess my instincts about trusting someone?",
+    "answer": "Past betrayals can cloud judgment and erode confidence in your intuition. Practice tuning into how interactions genuinely feel rather than overanalyzing. Over time, self-trust grows through mindful reflection and experience.",
+    "labels": ["trust", "intuition", "self-awareness"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I confront someone who has betrayed my trust?",
+    "answer": "Approach the conversation calmly and assertively: “I need to discuss something that’s been affecting me.” Stick to facts without generalizations, and listen to their perspective. Confrontation should aim for resolution, not blame.",
+    "labels": ["betrayal", "confrontation", "assertiveness"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do I feel isolated after experiencing betrayal?",
+    "answer": "Betrayal disrupts safety and connection, leading to feelings of isolation. Reach out to supportive friends, family, or therapists who can validate your emotions. Reconnecting helps restore faith in human bonds.",
+    "labels": ["betrayal", "isolation", "support"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "How do I differentiate between a mistake and a betrayal?",
+    "answer": "A mistake is unintentional and often accompanied by sincere remorse, while betrayal involves deliberate harm or dishonesty. Consider intent, context, and patterns of behavior when assessing the situation.",
+    "labels": ["trust", "betrayal", "judgment"],
+    "category": "Trust & Betrayal"
+  },
+  {
+    "question": "Why do I struggle to let go of anger toward someone who betrayed me?",
+    "answer": "Anger protects against deeper pain but prevents healing. Explore underlying emotions through journaling or therapy, and practice empathy by considering the other person’s perspective—not to excuse, but to understand.",
+    "labels": ["betrayal", "anger", "healing"],
+    "category": "Trust & Betrayal"
+  },
+
+
+
+  
+  {
+    "question": "Why do some people bounce back from challenges more easily than others?",
+    "answer": "Resilience often depends on factors like mindset, support systems, and past experiences. While genetics play a role, resilience can be cultivated through practice—focusing on strengths, learning from setbacks, and seeking help when needed.",
+    "labels": ["resilience", "adversity", "mindset"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I build resilience during tough times?",
+    "answer": "Focus on small, actionable steps each day to regain control. Practice gratitude, maintain routines, and lean on supportive relationships. Resilience grows when you embrace challenges as opportunities for growth rather than insurmountable obstacles.",
+    "labels": ["resilience", "growth", "support"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I feel overwhelmed by even minor setbacks?",
+    "answer": "Feeling overwhelmed may stem from perfectionism, lack of coping tools, or unresolved stress. Break problems into smaller parts, prioritize solutions, and remind yourself that setbacks are temporary—not reflections of your worth.",
+    "labels": ["coping mechanisms", "overwhelm", "stress"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I cope with failure without losing confidence?",
+    "answer": "Reframe failure as feedback—a stepping stone toward improvement. Analyze what went wrong objectively, celebrate effort rather than outcomes, and focus on lessons learned. Confidence rebuilds through persistence and self-compassion.",
+    "labels": ["resilience", "failure", "confidence"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I struggle to stay positive during difficult situations?",
+    "answer": "Positivity isn’t about ignoring pain—it’s about finding moments of hope amidst hardship. Practice mindfulness to stay grounded, and identify silver linings or opportunities for growth. Balance realism with optimism for sustainable resilience.",
+    "labels": ["resilience", "positivity", "mindfulness"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I develop healthier coping mechanisms instead of unhealthy ones?",
+    "answer": "Replace destructive habits (e.g., avoidance, substance use) with constructive alternatives like journaling, exercise, or talking to a trusted friend. Experiment with different techniques until you find what works best for calming your mind and body.",
+    "labels": ["coping mechanisms", "habits", "self-care"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I fall back into old patterns when stressed?",
+    "answer": "Old patterns provide familiarity, even if they’re unhelpful. Recognize triggers early and consciously choose new responses. Building awareness and practicing alternative behaviors consistently helps rewire ingrained habits over time.",
+    "labels": ["coping mechanisms", "patterns", "awareness"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I handle rejection without letting it define me?",
+    "answer": "Acknowledge the sting of rejection but separate it from your self-worth. Remind yourself that rejection is part of life and not always personal. Use it as motivation to improve or explore other opportunities aligned with your goals.",
+    "labels": ["resilience", "rejection", "self-worth"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I feel stuck after facing a major setback?",
+    "answer": "Feeling stuck arises from uncertainty or fear of repeating mistakes. Take inventory of available resources, break the next steps into manageable chunks, and seek advice from mentors or peers who’ve navigated similar challenges.",
+    "labels": ["resilience", "setbacks", "stagnation"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I teach myself to adapt to change more effectively?",
+    "answer": "View change as an opportunity for growth rather than a threat. Focus on aspects within your control, remain flexible, and celebrate small wins along the way. Adaptability strengthens with practice and perspective shifts.",
+    "labels": ["resilience", "adaptability", "change"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I ruminate on negative thoughts instead of moving forward?",
+    "answer": "Rumination occurs when we fixate on perceived failures or injustices. Interrupt these cycles by engaging in physical activity, creative outlets, or grounding exercises. Redirect energy toward problem-solving or positive affirmations.",
+    "labels": ["coping mechanisms", "rumination", "negative thoughts"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I ask for help when I’m struggling emotionally?",
+    "answer": "Start by acknowledging your feelings and recognizing that seeking help is a strength, not a weakness. Reach out to trusted friends, family, or professionals using simple phrases like, “I need support right now.” Vulnerability fosters connection.",
+    "labels": ["resilience", "asking for help", "support"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I feel guilty for prioritizing my mental health?",
+    "answer": "Guilt stems from societal expectations or fear of burdening others. Reframe self-care as essential for long-term well-being—it enables you to show up fully for yourself and others. Setting boundaries protects both your energy and relationships.",
+    "labels": ["coping mechanisms", "guilt", "mental health"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "How do I maintain hope when everything seems to go wrong?",
+    "answer": "Hope thrives on perspective—remind yourself that challenges are temporary and growth often follows hardship. Surround yourself with uplifting influences, visualize brighter days ahead, and take proactive steps toward creating positive change.",
+    "labels": ["resilience", "hope", "perspective"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+  {
+    "question": "Why do I avoid confronting my emotions during tough times?",
+    "answer": "Avoidance provides short-term relief but prolongs healing. Facing emotions allows you to process them constructively. Start small by journaling or talking to someone safe; gradual exposure reduces fear and builds emotional resilience.",
+    "labels": ["coping mechanisms", "emotions", "avoidance"],
+    "category": "Resilience & Coping Mechanisms"
+  },
+
+
+
+  
+  {
+    "question": "Why do I feel drawn to explore spirituality?",
+    "answer": "Spiritual exploration often arises from a desire for deeper meaning, connection, or inner peace. It’s natural to seek answers beyond material existence—trust your curiosity and embrace the journey without pressure to conform to specific beliefs.",
+    "labels": ["spiritual exploration", "meaning", "curiosity"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I start exploring my spirituality if I’m new to it?",
+    "answer": "Begin by reflecting on what resonates with you—nature, meditation, prayer, or reading spiritual texts. Experiment with practices like mindfulness, journaling, or attending workshops/retreats. Be open to discovering your unique path.",
+    "labels": ["spiritual exploration", "beginner", "practices"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do I question my faith or beliefs during difficult times?",
+    "answer": "Challenging moments often prompt deeper reflection on life’s purpose and the role of faith. Questioning isn’t a sign of weakness—it’s an opportunity to strengthen your understanding and evolve spiritually. Seek guidance from mentors or sacred texts if needed.",
+    "labels": ["spiritual exploration", "faith", "doubt"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I connect with a higher power or divine presence?",
+    "answer": "Cultivate connection through practices like prayer, meditation, gratitude, or acts of service. Spend time in nature or silence to listen inwardly. Trust that sincerity and openness will guide you toward meaningful experiences.",
+    "labels": ["spiritual exploration", "connection", "higher power"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do some people reject organized religion but still seek spirituality?",
+    "answer": "Organized religion may feel restrictive or misaligned with personal values, while spirituality offers freedom to explore individually. Many prefer direct, unmediated connections with their beliefs rather than adhering to institutional structures.",
+    "labels": ["spiritual exploration", "religion", "individuality"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I reconcile science and spirituality?",
+    "answer": "Science and spirituality can coexist—one explores the physical world, while the other addresses meaning and transcendence. Embrace both perspectives as complementary lenses for understanding existence. Look for intersections, such as awe-inspiring discoveries about the universe.",
+    "labels": ["spiritual exploration", "science", "balance"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do I feel disconnected from my spiritual practice?",
+    "answer": "Disconnection may stem from routine fatigue, unresolved doubts, or life distractions. Revisit your intentions and experiment with fresh approaches—try new rituals, join communities, or spend more time in solitude to reignite passion.",
+    "labels": ["spiritual exploration", "disconnection", "renewal"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I find peace when I don’t have all the answers?",
+    "answer": "Accept uncertainty as part of the human experience. Focus on cultivating inner peace through practices like mindfulness, breathwork, or gratitude. Trust that seeking truth is a lifelong process, not a destination.",
+    "labels": ["spiritual exploration", "peace", "uncertainty"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why does meditation help some people but not me?",
+    "answer": "Meditation benefits vary based on individual preferences and expectations. If traditional methods don’t resonate, try alternatives like walking meditations, guided visualizations, or creative expression. The key is finding alignment with your needs.",
+    "labels": ["spiritual exploration", "meditation", "alternatives"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I deepen my relationship with myself spiritually?",
+    "answer": "Engage in regular self-reflection, journaling, or quiet contemplation. Ask yourself meaningful questions like, “What brings me joy?” or “What are my core values?” Deepening self-awareness fosters authenticity and spiritual growth.",
+    "labels": ["spiritual exploration", "self-awareness", "growth"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do I feel guilty for doubting spiritual teachings?",
+    "answer": "Doubt is a natural part of growth—it challenges assumptions and leads to clarity. Release guilt by reframing doubt as curiosity rather than failure. Explore diverse perspectives and trust that your journey unfolds uniquely.",
+    "labels": ["spiritual exploration", "guilt", "doubt"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I incorporate spirituality into my daily life?",
+    "answer": "Integrate small, intentional actions like morning affirmations, mindful breathing, or expressing gratitude throughout the day. Create sacred spaces at home or carry reminders (e.g., symbols) to anchor your spiritual awareness.",
+    "labels": ["spiritual exploration", "daily habits", "integration"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do I feel judged for my spiritual beliefs?",
+    "answer": "Judgment often stems from differing worldviews or misunderstandings. Stay true to your convictions while remaining respectful of others’ perspectives. Surround yourself with supportive communities that honor your journey without criticism.",
+    "labels": ["spiritual exploration", "judgment", "community"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "How do I deal with conflicting spiritual teachings?",
+    "answer": "Approach conflicts with discernment—identify principles that align with your values and resonate deeply. Recognize no single teaching holds all answers; blend insights thoughtfully to create a personalized framework for your beliefs.",
+    "labels": ["spiritual exploration", "conflict", "discernment"],
+    "category": "Spiritual Exploration"
+  },
+  {
+    "question": "Why do I crave solitude during my spiritual journey?",
+    "answer": "Solitude provides space for introspection, clarity, and connection with your inner self. Honor this need by setting aside dedicated alone time—whether in nature, meditation, or creative pursuits. Solitude nurtures profound spiritual insights.",
+    "labels": ["spiritual exploration", "solitude", "introspection"],
+    "category": "Spiritual Exploration"
+  }
+
+]
