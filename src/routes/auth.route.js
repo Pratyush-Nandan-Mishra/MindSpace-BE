@@ -12,13 +12,14 @@ import {
   isNotAuthenticated,
   isAdmin
 } from "../middleware/auth.middleware.js";
+import { authenticateJWT } from "../middleware/jwt.middleware.js";
 import {
   generateAccessToken,
   generateRefreshToken,
-  verifyRefreshToken, 
+  verifyRefreshToken,
 } from "../helpers/jwt.helper.js";
 
-import User from "../models/User.js"; 
+import User from "../models/User.js";
 
 const router = express.Router();
 
@@ -64,8 +65,7 @@ if (process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET) {
         });
       }
 
-      //Redirect to frontend
-      res.redirect(`${FRONTEND_URL}/dashboard`);
+      res.redirect(`${FRONTEND_URL}/auth/redirect?accessToken=${accessToken}&refreshToken=${refreshToken}`);
     }
   );
 } else {
@@ -148,7 +148,7 @@ router.get("/profile", isAuthenticated, getProfile);
 router.put("/profile", isAuthenticated, updateProfile);
 router.get("/status", checkAuth);
 router.get("/users", isAuthenticated, isAdmin, getAllUsers);
-router.get("/me", getProfile);
+router.get("/me", authenticateJWT, getProfile);
 
 export default router;
 
